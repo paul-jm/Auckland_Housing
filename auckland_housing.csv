@@ -1,0 +1,501 @@
+,Street,Area,City,Price,beds,baths,Url,Rent_per_room,lat,lng,avg_per_area
+0,16 Clark Street,Manurewa,Auckland,625.0,3.0,1.0,https://www.myrent.co.nz/listings/M9RFMD,208.33333333333331,-37.014003100000004,174.8874217,206.42857142857142
+1,697 Mount Albert Road,RoyalOak,Auckland,760.0,4.0,1.0,https://www.myrent.co.nz/listings/FYM1H1,190.0,-36.9116852,174.77323280000002,230.0
+2,116 Arney Road,Remuera,Auckland,2000.0,4.0,3.0,https://www.myrent.co.nz/listings/WXJSVP,500.0,-36.8666024,174.7909905,369.0
+3,2B/15 Nelson Street,AucklandCentral,Auckland,360.0,1.0,1.0,https://www.myrent.co.nz/listings/DK8QVH,360.0,-36.8466718,174.75996809999998,383.5460992907801
+4,102/46 Rosedale Road,Rosedale,Auckland,635.0,2.0,2.0,https://www.myrent.co.nz/listings/S6XZKD,317.5,-36.736024,174.72967419999998,317.5
+5,2/174B Upland Road,Remuera,Auckland,1000.0,2.0,2.0,https://www.myrent.co.nz/listings/ZF5JFB,500.0,-36.8699959,174.8081201,369.0
+6,2/736 Mount Eden Road,MountEden,Auckland,725.0,3.0,1.0,https://www.myrent.co.nz/listings/UYHGNM,241.66666666666663,-36.895416499999996,174.7584317,346.75
+7,5 Basra Drive,Henderson,Auckland,620.0,3.0,2.0,https://www.myrent.co.nz/listings/L9Z6VE,206.66666666666663,-36.8809984,174.614178,322.57575757575756
+8,302/135 Vincent Street,AucklandCentral,Auckland,525.0,2.0,1.0,https://www.myrent.co.nz/listings/TUKEKI,262.5,-36.85421669999999,174.75905790000002,383.5460992907801
+9,102/10 Flower Street,EdenTerrace,Auckland,520.0,2.0,1.0,https://www.myrent.co.nz/listings/6HA73B,260.0,-36.866755700000006,174.7605071,340.8333333333333
+10,23 Titoki Street,TeAtatuPeninsula,Auckland,580.0,3.0,2.0,https://www.myrent.co.nz/listings/1BYAAL,193.33333333333331,-36.8547971,174.6488307,211.45833333333331
+11,9C/25 Rutland Street,AucklandCentral,Auckland,385.0,1.0,1.0,https://www.myrent.co.nz/listings/92HJSU,385.0,-36.85214179999999,174.76536330000002,383.5460992907801
+12,58 Renata Crescent,TeAtatuPeninsula,Auckland,645.0,3.0,1.0,https://www.myrent.co.nz/listings/CHCKKE,215.0,-36.834286799999994,174.6435801,211.45833333333331
+13,70B Panorama Road,MountWellington,Auckland,320.0,1.0,1.0,https://www.myrent.co.nz/listings/QNTKAL,320.0,-36.9025951,174.830277,248.48484848484847
+14,59 Calthorp Close,Favona,Auckland,520.0,3.0,1.0,https://www.myrent.co.nz/listings/66BJQ5,173.33333333333337,-36.96130429999999,174.80395769999998,178.33333333333334
+15,,Redvale,Auckland,900.0,5.0,3.0,https://www.myrent.co.nz/listings/8EJS2E,180.0,-36.68209,174.6984292,180.0
+16,303/207 Federal Street,AucklandCentral,Auckland,650.0,2.0,1.0,https://www.myrent.co.nz/listings/SG9RQF,325.0,-36.851191899999996,174.7610646,383.5460992907801
+17,3/17 Panorama Road,MountWellington,Auckland,480.0,2.0,1.0,https://www.myrent.co.nz/listings/AKVSTZ,240.0,-36.9065815,174.8289321,248.48484848484847
+18,11D/125A Hobson Street,AucklandCentral,Auckland,415.0,1.0,1.0,https://www.myrent.co.nz/listings/E3UTTY,415.0,-36.8501327,174.75994,383.5460992907801
+19,9D/34 Kingston Street,AucklandCentral,Auckland,480.0,2.0,1.0,https://www.myrent.co.nz/listings/CZDIIU,240.0,-36.8473989,174.76231289999998,383.5460992907801
+20,12 Appleby Place,MangereEast,Auckland,600.0,3.0,1.0,https://www.myrent.co.nz/listings/CBANTN,200.0,-36.9808351,174.82958019999998,127.5
+21,3/4 Fleming Street,ManurewaEast,Auckland,490.0,2.0,1.0,https://www.myrent.co.nz/listings/FHC7KW,245.0,-37.0222188,174.90419530000003,220.83333333333331
+22,3Y/15 Nelson Street,AucklandCentral,Auckland,560.0,1.0,1.0,https://www.myrent.co.nz/listings/VU1MAS,560.0,-36.8466718,174.75996809999998,383.5460992907801
+23,29 Rosebank Road,Papatoetoe,Auckland,600.0,3.0,1.0,https://www.myrent.co.nz/listings/BNWGMG,200.0,-36.9714295,174.83859730000003,228.78571428571428
+24,3/5 Pollen Street,GreyLynn,Auckland,700.0,2.0,2.0,https://www.myrent.co.nz/listings/BC3PKV,350.0,-36.8605404,174.7507759,347.33333333333337
+25,17 Marconi Place,NewWindsor,Auckland,300.0,1.0,1.0,https://www.myrent.co.nz/listings/VPTM3L,300.0,-36.9089722,174.72156919999998,215.41666666666669
+26,35 Hedge Row,Sunnyhills,Auckland,630.0,4.0,1.0,https://www.myrent.co.nz/listings/BFGKJN,157.5,-36.8981321,174.89514630000002,157.5
+27,,Papatoetoe,Auckland,490.0,3.0,2.0,https://www.myrent.co.nz/listings/TCZTBF,163.33333333333334,-36.979478799999995,174.8542549,228.78571428571428
+28,76 Albert Street,AucklandCentral,Auckland,440.0,2.0,1.0,https://www.myrent.co.nz/listings/UEXVRN,220.0,-36.8476529,174.764121,383.5460992907801
+29,189 Manuka Road,Bayview,Auckland,630.0,4.0,2.0,https://www.myrent.co.nz/listings/4WZTXS,157.5,-36.7789785,174.7027158,193.5
+30,201A St Johns Road,SaintJohns,Auckland,550.0,2.0,1.0,https://www.myrent.co.nz/listings/KNL1HD,275.0,-36.8745861,174.84295569999998,206.5
+31,1/4 Amiria Street,SaintMarysBay,Auckland,700.0,2.0,1.0,https://www.myrent.co.nz/listings/BHTYHQ,350.0,-36.8412618,174.74396330000002,350.0
+32,1315/430 Queen Street,AucklandCentral,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/R2UTTL,250.0,-36.8543216,174.7633034,383.5460992907801
+33,,Remuera,Auckland,550.0,1.0,1.0,https://www.myrent.co.nz/listings/YAHFBM,550.0,-36.8807382,174.7981463,369.0
+34,,WestHarbour,Auckland,800.0,4.0,2.0,https://www.myrent.co.nz/listings/AEZYUH,200.0,-36.8187874,174.6296364,184.44444444444443
+35,184 Symonds Street,EdenTerrace,Auckland,580.0,2.0,1.0,https://www.myrent.co.nz/listings/CKPNRK,290.0,-36.86371389999999,174.7615505,340.8333333333333
+36,6I Tahora Avenue,Remuera,Auckland,870.0,3.0,2.0,https://www.myrent.co.nz/listings/PYT11H,290.0,-36.88237879999999,174.8114181,369.0
+37,25 Hills Road,Otara,Auckland,200.0,4.0,2.0,https://www.myrent.co.nz/listings/QBFG7A,50.0,-36.9587788,174.8828149,90.0
+38,4/318 Ellerslie-Panmure Highway,MountWellington,Auckland,470.0,2.0,1.0,https://www.myrent.co.nz/listings/HNTNBD,235.0,-36.897036,174.82694980000002,248.48484848484847
+39,,Otara,Auckland,510.0,3.0,1.0,https://www.myrent.co.nz/listings/GU3A4C,170.0,-36.96239129999999,174.8748985,90.0
+40,,Papatoetoe,Auckland,490.0,3.0,2.0,https://www.myrent.co.nz/listings/Q7KSVM,163.33333333333334,-36.979478799999995,174.8542549,228.78571428571428
+41,,Ranui,Auckland,249.0,1.0,1.0,https://www.myrent.co.nz/listings/UHS5IL,249.0,-36.86385509999999,174.60240530000002,190.96666666666664
+42,21 Whitaker Place,Grafton,Auckland,250.0,3.0,2.0,https://www.myrent.co.nz/listings/WD2ZXY,83.33333333333333,-36.8575033,174.7660994,292.91666666666663
+43,6 Foundries Lane,FreemansBay,Auckland,1375.0,3.0,2.0,https://www.myrent.co.nz/listings/VWWSM3,458.33333333333326,-36.8521735,174.7540969,490.41666666666663
+44,5 Bennett Road,Pakuranga,Auckland,590.0,3.0,1.0,https://www.myrent.co.nz/listings/QZGEPC,196.66666666666663,-36.9112028,174.8772929,185.33333333333331
+45,40 Swinburne Street,BlockhouseBay,Auckland,280.0,8.0,4.0,https://www.myrent.co.nz/listings/BJ7PE1,35.0,-36.9162154,174.6921409,256.66666666666663
+46,34 Wattle Street,NewLynn,Auckland,595.0,3.0,2.0,https://www.myrent.co.nz/listings/ZVVDYH,198.33333333333331,-36.906303,174.6734276,272.72727272727275
+47,12 Earlsworth Road,MangereEast,Auckland,220.0,8.0,5.0,https://www.myrent.co.nz/listings/PUH3TL,27.5,-36.964858,174.83548019999998,127.5
+48,29 Cherrie Road,Beachlands,Auckland,580.0,3.0,2.0,https://www.myrent.co.nz/listings/FMZMAJ,193.33333333333331,-36.884701,174.99064280000002,256.66666666666663
+49,72A College Hill,FreemansBay,Auckland,785.0,1.0,1.0,https://www.myrent.co.nz/listings/8ZHBJ3,785.0,-36.8479495,174.74617969999997,490.41666666666663
+50,3/13 Northall Road,NewLynn,Auckland,525.0,2.0,1.0,https://www.myrent.co.nz/listings/3JWYCU,262.5,-36.9138811,174.6691836,272.72727272727275
+51,21 Whitaker Place,Grafton,Auckland,600.0,3.0,1.0,https://www.myrent.co.nz/listings/NHSSGB,200.0,-36.8575033,174.7660994,292.91666666666663
+52,21 Whitaker Place,Grafton,Auckland,270.0,3.0,2.0,https://www.myrent.co.nz/listings/YDUXWN,90.0,-36.8575033,174.7660994,292.91666666666663
+53,G01/25 Enfield Street,MountEden,Auckland,1199.0,2.0,2.0,https://www.myrent.co.nz/listings/PRH3AI,599.5,-36.8687201,174.762769,346.75
+54,608/22 Library Lane,Albany,Auckland,650.0,2.0,2.0,https://www.myrent.co.nz/listings/JJRMCN,325.0,-36.72680039999999,174.6963518,297.4
+55,327 Hobsonville Road,Hobsonville,Auckland,600.0,2.0,1.0,https://www.myrent.co.nz/listings/UKWVCG,300.0,-36.8017187,174.64121469999998,241.66666666666666
+56,69 Hall Avenue,Mangere,Auckland,475.0,1.0,1.0,https://www.myrent.co.nz/listings/ZKDHEL,475.0,-36.95928010000001,174.7971983,398.3333333333333
+57,11 Jomard Terrace,Albany,Auckland,980.0,5.0,3.0,https://www.myrent.co.nz/listings/D7WDER,196.0,-36.7092725,174.72565790000002,297.4
+58,15 Pixie Place,PakurangaHeights,Auckland,595.0,3.0,1.0,https://www.myrent.co.nz/listings/GAHGAZ,198.33333333333331,-36.911446600000005,174.8937214,224.7222222222222
+59,30 Matipo Street,MountEden,Auckland,850.0,3.0,1.0,https://www.myrent.co.nz/listings/VKARWF,283.3333333333333,-36.8907606,174.75107690000002,346.75
+60,,Papatoetoe,Auckland,650.0,4.0,1.0,https://www.myrent.co.nz/listings/UPPSMB,162.5,-36.979478799999995,174.8542549,228.78571428571428
+61,1006/8 Ronayne Street,AucklandCentral,Auckland,690.0,2.0,2.0,https://www.myrent.co.nz/listings/X2BRTE,345.0,-36.849119,174.77517749999998,383.5460992907801
+62,1/7 Wyman Place,PakurangaHeights,Auckland,610.0,3.0,1.0,https://www.myrent.co.nz/listings/UVXJSQ,203.33333333333331,-36.9085691,174.89110480000002,224.7222222222222
+63,184 Symonds Street,EdenTerrace,Auckland,420.0,1.0,1.0,https://www.myrent.co.nz/listings/I5WVNM,420.0,-36.86371389999999,174.7615505,340.8333333333333
+64,139 Don Buck Road,Massey,Auckland,450.0,2.0,1.0,https://www.myrent.co.nz/listings/GRNWJK,225.0,-36.8511362,174.6105756,219.79166666666666
+65,6D/34 Kingston Street,AucklandCentral,Auckland,475.0,2.0,1.0,https://www.myrent.co.nz/listings/9VM9TR,237.5,-36.8473989,174.76231289999998,383.5460992907801
+66,21 Whitaker Place,Grafton,Auckland,720.0,3.0,2.0,https://www.myrent.co.nz/listings/XCP2GM,240.0,-36.8575033,174.7660994,292.91666666666663
+67,1A Richards Avenue,ForrestHill,Auckland,875.0,3.0,2.0,https://www.myrent.co.nz/listings/BL3PDD,291.6666666666667,-36.762583,174.7556633,260.83333333333337
+68,61A Bolton Street,BlockhouseBay,Auckland,800.0,4.0,3.0,https://www.myrent.co.nz/listings/RG81VY,200.0,-36.91900529999999,174.69648590000003,256.66666666666663
+69,3/135 Manuka Road,Bayview,Auckland,660.0,3.0,1.0,https://www.myrent.co.nz/listings/HF251I,220.0,-36.7784449,174.7092763,193.5
+70,6 Wyon Way,FlatBush,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/B8IXXB,250.0,-36.9593405,174.9220437,242.61111111111111
+71,1/45A Puhinui Road,Manukau,Auckland,250.0,1.0,1.0,https://www.myrent.co.nz/listings/D5PRMG,250.0,-36.983004,174.87243940000002,250.0
+72,53 Kairanga Street,MangereEast,Auckland,620.0,4.0,1.0,https://www.myrent.co.nz/listings/5LFGHZ,155.0,-36.9712944,174.8282051,127.5
+73,77 Stanaway Street,Hillcrest,Auckland,760.0,4.0,2.0,https://www.myrent.co.nz/listings/M7URNG,190.0,-36.7906124,174.73559519999998,194.44444444444443
+74,2B/18 Federal Street,AucklandCentral,Auckland,550.0,1.0,1.0,https://www.myrent.co.nz/listings/WTWLNA,550.0,-36.845208899999996,174.76406310000002,383.5460992907801
+75,242 Balmoral Road,Sandringham,Auckland,595.0,3.0,1.0,https://www.myrent.co.nz/listings/MSWWET,198.33333333333331,-36.8860984,174.7425313,227.97619047619045
+76,2/15 Quebec Road,Milford,Auckland,840.0,4.0,2.0,https://www.myrent.co.nz/listings/QF3AAP,210.0,-36.7745683,174.75354719999999,224.16666666666666
+77,523 New North Road,Kingsland,Auckland,410.0,1.0,1.0,https://www.myrent.co.nz/listings/G2DHLR,410.0,-36.8725047,174.74252040000002,410.0
+78,18 Subritzky Avenue,MountRoskill,Auckland,300.0,1.0,1.0,https://www.myrent.co.nz/listings/XYTGKQ,300.0,-36.9143355,174.72366269999998,248.19444444444443
+79,11 Jomard Terrace,Albany,Auckland,980.0,5.0,3.0,https://www.myrent.co.nz/listings/JHX6CT,196.0,-36.7092725,174.72565790000002,297.4
+80,67 Balmoral Road,MountEden,Auckland,1300.0,4.0,2.0,https://www.myrent.co.nz/listings/MWDPBQ,325.0,-36.88879779999999,174.7583858,346.75
+81,3/29 Lane Road,Weymouth,Auckland,465.0,2.0,1.0,https://www.myrent.co.nz/listings/RACUSS,232.5,-37.0468664,174.8606227,207.91666666666666
+82,4/45 Reimers Avenue,MountEden,Auckland,580.0,2.0,1.0,https://www.myrent.co.nz/listings/EBMQTD,290.0,-36.8768442,174.7456322,346.75
+83,19 Ferry Parade,HeraldIsland,Auckland,300.0,1.0,1.0,https://www.myrent.co.nz/listings/FCBUFX,300.0,-36.781804,174.6530185,300.0
+84,110A St Georges Road,Avondale,Auckland,550.0,3.0,1.0,https://www.myrent.co.nz/listings/XRKNGR,183.33333333333331,-36.904106899999995,174.6968519,183.69047619047618
+85,G05/7 Ratanui Street,Henderson,Auckland,495.0,1.0,1.0,https://www.myrent.co.nz/listings/7WS1PS,495.0,-36.878625799999995,174.6328938,322.57575757575756
+86,,GlenEden,Auckland,650.0,4.0,1.0,https://www.myrent.co.nz/listings/XAHLVV,162.5,-36.90991229999999,174.6507063,224.79166666666666
+87,56A Reynella Drive,Massey,Auckland,750.0,4.0,2.0,https://www.myrent.co.nz/listings/V1WCTN,187.5,-36.8405438,174.6109055,219.79166666666666
+88,26 Wycherley Drive,BucklandsBeach,Auckland,650.0,3.0,1.0,https://www.myrent.co.nz/listings/SXLWWV,216.66666666666663,-36.887868,174.91239050000001,179.28333333333333
+89,10 Hyde Street,ManurewaEast,Auckland,590.0,3.0,2.0,https://www.myrent.co.nz/listings/MLEREM,196.66666666666663,-37.0221014,174.904992,220.83333333333331
+90,159 Pah Road,RoyalOak,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/EVRSEN,250.0,-36.9149541,174.76853169999998,230.0
+91,28 Rotoiti Avenue,PakurangaHeights,Auckland,350.0,1.0,1.0,https://www.myrent.co.nz/listings/R3N6PY,350.0,-36.9196686,174.8860355,224.7222222222222
+92,110A St Georges Road,Avondale,Auckland,550.0,3.0,1.0,https://www.myrent.co.nz/listings/HJFUFF,183.33333333333331,-36.904106899999995,174.6968519,183.69047619047618
+93,48 Waddell Avenue,PointEngland,Auckland,780.0,4.0,3.0,https://www.myrent.co.nz/listings/XJFTUS,195.0,-36.886263799999995,174.8619631,195.0
+94,7 Kilcooley Road,FlatBush,Auckland,420.0,1.0,1.0,https://www.myrent.co.nz/listings/N9HK4J,420.0,-36.967163299999996,174.9357666,242.61111111111111
+95,2/18 Commodore Drive,Lynfield,Auckland,460.0,1.0,1.0,https://www.myrent.co.nz/listings/6ZFU4S,460.0,-36.9241497,174.71995990000002,318.3333333333333
+96,104/10 Lion Place,Epsom,Auckland,1049.0,2.0,2.0,https://www.myrent.co.nz/listings/KVHTBH,524.5,-36.867235799999996,174.7709819,368.94791666666663
+97,,GlenEden,Auckland,480.0,2.0,1.0,https://www.myrent.co.nz/listings/PMRFWN,240.0,-36.90991229999999,174.6507063,224.79166666666666
+98,2 Vigo Place,Papatoetoe,Auckland,650.0,3.0,1.0,https://www.myrent.co.nz/listings/VR8B7X,216.66666666666663,-36.983064899999995,174.8399665,228.78571428571428
+99,184 Symonds Street,EdenTerrace,Auckland,450.0,1.0,1.0,https://www.myrent.co.nz/listings/CARGBH,450.0,-36.86371389999999,174.7615505,340.8333333333333
+100,278D Okura River Road,LongBay,Auckland,1099.0,5.0,4.0,https://www.myrent.co.nz/listings/3M5NVB,219.8,-36.69404979999999,174.7175524,219.8
+101,12A Onslow Road,MountEden,Auckland,1040.0,4.0,2.0,https://www.myrent.co.nz/listings/LJKFKW,260.0,-36.8740304,174.7501573,346.75
+102,116/10 Ronayne Street,AucklandCentral,Auckland,740.0,2.0,2.0,https://www.myrent.co.nz/listings/MF5P7N,370.0,-36.8491662,174.7754553,383.5460992907801
+103,1/66 Gosford Drive,BotanyDowns,Auckland,660.0,3.0,2.0,https://www.myrent.co.nz/listings/LXRSKT,220.0,-36.9086366,174.9127939,192.26666666666665
+104,15 Ali Place,Ranui,Auckland,650.0,3.0,2.0,https://www.myrent.co.nz/listings/P1NJHH,216.66666666666663,-36.8629752,174.6095796,190.96666666666664
+105,1/15 Andersons Road,Oteha,Auckland,670.0,3.0,2.0,https://www.myrent.co.nz/listings/JSGNWS,223.33333333333331,-36.714738399999995,174.71996049999998,237.5
+106,21B Bayswater Avenue,Bayswater,Auckland,350.0,1.0,1.0,https://www.myrent.co.nz/listings/VTNJZQ,350.0,-36.815906,174.7717717,347.5
+107,3/178 Chivalry Road,Glenfield,Auckland,480.0,2.0,1.0,https://www.myrent.co.nz/listings/OSCWHJ,240.0,-36.7803944,174.73642819999998,228.88888888888889
+108,3/9 Michaels Avenue,Ellerslie,Auckland,650.0,3.0,1.0,https://www.myrent.co.nz/listings/APP5EZ,216.66666666666663,-36.8973869,174.8210111,235.35714285714286
+109,67B Hastie Avenue,MangereBridge,Auckland,600.0,4.0,1.0,https://www.myrent.co.nz/listings/AFCENX,150.0,-36.9441081,174.7961506,255.0
+110,69 Hall Avenue,Mangere,Auckland,460.0,1.0,1.0,https://www.myrent.co.nz/listings/DK1SVT,460.0,-36.95928010000001,174.7971983,398.3333333333333
+111,5 Messenger Road,Stillwater,Silverdale,450.0,1.0,1.0,https://www.myrent.co.nz/listings/HUNHQK,450.0,-36.634424100000004,174.7059731,450.0
+112,1/41 Ellice Road,TotaraVale,Auckland,550.0,3.0,1.0,https://www.myrent.co.nz/listings/JHCRMQ,183.33333333333331,-36.767099200000004,174.7275193,194.99999999999994
+113,12 Malabar Drive,Ellerslie,Auckland,800.0,4.0,2.0,https://www.myrent.co.nz/listings/TJ2H6C,200.0,-36.8935588,174.8145629,235.35714285714286
+114,59A Queen Street,Riverhead,Riverhead,650.0,3.0,2.0,https://www.myrent.co.nz/listings/Y4C73U,216.66666666666663,-36.758879,174.597018,216.66666666666663
+115,41 Konini Road,Greenlane,Auckland,715.0,3.0,1.0,https://www.myrent.co.nz/listings/39KVG2,238.33333333333331,-36.9027789,174.7990994,271.1111111111111
+116,,Manurewa,Auckland,475.0,2.0,1.0,https://www.myrent.co.nz/listings/T9WPMR,237.5,-37.025395399999994,174.8934802,206.42857142857142
+117,246A Blockhouse Bay Road,Avondale,Auckland,385.0,2.0,1.0,https://www.myrent.co.nz/listings/WILJ7X,192.5,-36.9044461,174.7025069,183.69047619047618
+118,56 Brandon Road,GlenEden,Auckland,515.0,3.0,1.0,https://www.myrent.co.nz/listings/AAKC3Y,171.66666666666666,-36.905577,174.65902319999998,224.79166666666666
+119,3A Hobson Heights Road,LucasHeights,Auckland,800.0,2.0,2.0,https://www.myrent.co.nz/listings/1AK1HZ,400.0,-36.7237145,174.6776484,400.0
+120,98 Reynolds Road,Pukekohe,Pukekohe,610.0,4.0,2.0,https://www.myrent.co.nz/listings/H5YAL1,152.5,-37.1903864,174.91544069999998,166.80555555555554
+121,,RedBeach,Red Beach,450.0,2.0,1.0,https://www.myrent.co.nz/listings/4VEAT1,225.0,-36.6025056,174.6945312,225.0
+122,17A Greenhaven Avenue,Opaheke,Papakura,650.0,3.0,2.0,https://www.myrent.co.nz/listings/WX5B7R,216.66666666666663,-37.07300610000001,174.9515764,211.66666666666663
+123,5 Park Chester Road,Pukekohe,Pukekohe,590.0,3.0,2.0,https://www.myrent.co.nz/listings/EUSHR2,196.66666666666663,-36.8484597,174.7633315,166.80555555555554
+124,987 Hibiscus Coast Highway,Waiwera,Orewa,1200.0,6.0,3.0,https://www.myrent.co.nz/listings/ZA9QJQ,200.0,-36.5520654,174.70664140000002,200.0
+125,2 Shepherds Road,Papakura,Papakura,250.0,1.0,1.0,https://www.myrent.co.nz/listings/TFYHNH,250.0,-37.0578153,174.9290989,218.66666666666666
+126,420 Mangakura Road,Helensville,Helensville,900.0,4.0,3.0,https://www.myrent.co.nz/listings/Y1SLK8,225.0,-36.7116542,174.4562972,225.0
+127,,StanmoreBay,Whangaparaoa,300.0,1.0,1.0,https://www.myrent.co.nz/listings/SVJNOW,300.0,-36.6258298,174.7301467,300.0
+128,23 Great South Road,Takanini,Takanini,400.0,2.0,1.0,https://www.myrent.co.nz/listings/2PHEBB,200.0,-37.0398783,174.914293,200.0
+129,11 Ray Small Drive,Papakura,Papakura,562.0,3.0,2.0,https://www.myrent.co.nz/listings/AAQBGW,187.33333333333331,-37.065703000000006,174.93759730000002,218.66666666666666
+130,20 Hampton Downs Road,HamptonDowns,Te Kauwhata,450.0,2.0,1.0,https://www.myrent.co.nz/listings/H21UUF,225.0,-37.3554456,175.082232,225.0
+131,2 Ewing Road,Tuakau,Tuakau,520.0,3.0,2.0,https://www.myrent.co.nz/listings/SUP13K,173.33333333333337,-37.262148100000005,174.9786935,173.33333333333337
+132,19 Willowgrange Place,Pukekohe,Pukekohe,605.0,4.0,2.0,https://www.myrent.co.nz/listings/FRCEZQ,151.25,-37.1964302,174.9174755,166.80555555555554
+133,2/14 Edison Place,StHeliers,Auckland,610.0,3.0,1.0,https://www.myrent.co.nz/listings/QRSNFH,203.33333333333331,-36.8678625,174.84412690000002,191.16666666666666
+134,119 Hitchen Road,Pokeno,Pokeno,590.0,4.0,2.0,https://www.myrent.co.nz/listings/MHMMYU,147.5,-37.2488592,175.0118887,147.5
+135,267 Mahurangi West Road,MahurangiWest,Warkworth,460.0,2.0,1.0,https://www.myrent.co.nz/listings/TRG2EU,230.0,-36.498649799999995,174.68242709999998,230.0
+136,60A Racecourse Road,Waiuku,Waiuku,550.0,4.0,1.0,https://www.myrent.co.nz/listings/VF3ZDA,137.5,-37.241288,174.7341521,137.5
+137,7 Byron Avenue,Takapuna,Auckland,595.0,1.0,1.0,https://www.myrent.co.nz/listings/ZWAWPU,595.0,-36.7905795,174.7717934,389.88095238095235
+138,973 Matakana Road,Matakana,Matakana,420.0,2.0,1.0,https://www.myrent.co.nz/listings/BCNNQW,210.0,-36.3529863,174.716082,210.0
+139,170 Bombay Road,Bombay,Bombay,250.0,1.0,1.0,https://www.myrent.co.nz/listings/ARYDVE,250.0,-37.188565999999994,174.99138,250.0
+140,1/39 Turama Road,RoyalOak,Auckland,840.0,4.0,2.0,https://www.myrent.co.nz/listings/RYTOYK,210.0,-36.9091278,174.78054330000003,230.0
+141,667 New North Road,Morningside,Auckland,1350.0,5.0,2.0,https://www.myrent.co.nz/listings/MN224J,270.0,-36.87518790000001,174.7328583,269.4444444444444
+142,31 Middlefield Drive,EastTamakiHeights,Auckland,760.0,4.0,3.0,https://www.myrent.co.nz/listings/EWAPNA,190.0,-36.9461083,174.91415940000002,190.0
+143,24 Lime Hill Rise,FlatBush,Auckland,530.0,2.0,1.0,https://www.myrent.co.nz/listings/YRCS6X,265.0,-36.984917200000005,174.9126477,242.61111111111111
+144,102/987 Mount Eden Road,ThreeKings,Auckland,750.0,2.0,2.0,https://www.myrent.co.nz/listings/SPEQWX,375.0,-36.9037335,174.75891830000003,313.125
+145,7/4 View Road,MountEden,Auckland,725.0,2.0,1.0,https://www.myrent.co.nz/listings/3YU2PB,362.5,-36.8742217,174.7612611,346.75
+146,112 Williamson Avenue,GreyLynn,Auckland,395.0,1.0,1.0,https://www.myrent.co.nz/listings/NWSVGZ,395.0,-36.8632973,174.74105790000002,347.33333333333337
+147,1/5 Rewa Road,ThreeKings,Auckland,1200.0,5.0,1.0,https://www.myrent.co.nz/listings/HQ3MVC,240.0,-36.8999083,174.7580456,313.125
+148,74A Sunset Road,UnsworthHeights,Auckland,545.0,2.0,1.0,https://www.myrent.co.nz/listings/CDMWCA,272.5,-36.7602905,174.7230176,263.75
+149,13/18 Edenvale Crescent,MountEden,Auckland,380.0,1.0,1.0,https://www.myrent.co.nz/listings/7KOFO6,380.0,-36.8710338,174.75824430000003,346.75
+150,6K Tahora Avenue,Remuera,Auckland,570.0,2.0,1.0,https://www.myrent.co.nz/listings/E3MSVI,285.0,-36.88237879999999,174.8114181,369.0
+151,,TotaraVale,Auckland,650.0,3.0,1.0,https://www.myrent.co.nz/listings/LCETTN,216.66666666666663,-36.759634999999996,174.7334974,194.99999999999994
+152,51B Canal Road,Avondale,Auckland,580.0,3.0,1.0,https://www.myrent.co.nz/listings/SEPHRR,193.33333333333331,-36.8937431,174.68690759999998,183.69047619047618
+153,6A Nugent Street,Grafton,Auckland,780.0,2.0,1.0,https://www.myrent.co.nz/listings/PUUNKB,390.0,-36.86587479999999,174.7649376,292.91666666666663
+154,5/1 Eldon Road,MountEden,Auckland,390.0,1.0,1.0,https://www.myrent.co.nz/listings/WKWZGH,390.0,-36.8855472,174.743975,346.75
+155,4/511 Parnell Road,Parnell,Auckland,650.0,2.0,1.0,https://www.myrent.co.nz/listings/YACJBM,325.0,-36.8618988,174.78154980000002,366.875
+156,G04/7 Ratanui Street,Henderson,Auckland,495.0,1.0,1.0,https://www.myrent.co.nz/listings/W8GJQV,495.0,-36.878625799999995,174.6328938,322.57575757575756
+157,74 Sunset Road,UnsworthHeights,Auckland,255.0,1.0,1.0,https://www.myrent.co.nz/listings/DNIX8M,255.0,-36.7602905,174.7230176,263.75
+158,16 Glenbervie Crescent,Massey,Auckland,260.0,1.0,1.0,https://www.myrent.co.nz/listings/KNDIPK,260.0,-36.8321708,174.6116955,219.79166666666666
+159,3/3 Patterson Street,Sandringham,Auckland,530.0,2.0,1.0,https://www.myrent.co.nz/listings/E2VFOI,265.0,-36.8867157,174.7388764,227.97619047619045
+160,3/43 Holly Street,Avondale,Auckland,580.0,3.0,1.0,https://www.myrent.co.nz/listings/AYQM4W,193.33333333333331,-36.888274100000004,174.69326619999998,183.69047619047618
+161,46 Edmund Street,StHeliers,Auckland,895.0,5.0,2.0,https://www.myrent.co.nz/listings/V7QFFH,179.0,-36.858287700000005,174.8485625,191.16666666666666
+162,13 Mount Street,AucklandCentral,Auckland,425.0,1.0,1.0,https://www.myrent.co.nz/listings/869HDH,425.0,-36.85454779999999,174.7665794,383.5460992907801
+163,135 Exmouth Road,Northcote,Auckland,375.0,1.0,1.0,https://www.myrent.co.nz/listings/VHWMSB,375.0,-36.8069026,174.7561044,203.75
+164,5/89 Richmond Road,GreyLynn,Auckland,535.0,1.0,1.0,https://www.myrent.co.nz/listings/9FXKVX,535.0,-36.856969299999996,174.74133669999998,347.33333333333337
+165,2/47A Wintere Road,Papatoetoe,Auckland,540.0,2.0,1.0,https://www.myrent.co.nz/listings/5TXRPG,270.0,-36.9704106,174.8647905,228.78571428571428
+166,8 Walters Road,MountWellington,Auckland,555.0,3.0,1.0,https://www.myrent.co.nz/listings/UQQSLK,185.0,-36.93434209999999,174.84516409999998,248.48484848484847
+167,218/69 Hall Avenue,Mangere,Auckland,450.0,1.0,1.0,https://www.myrent.co.nz/listings/ZXC6OB,450.0,-36.95928010000001,174.7971983,398.3333333333333
+168,147 Millhouse Drive,Golflands,Auckland,750.0,4.0,2.0,https://www.myrent.co.nz/listings/XSMNHX,187.5,-36.919531400000004,174.9138935,187.5
+169,41/17 Lyon Avenue,MountAlbert,Auckland,750.0,3.0,2.0,https://www.myrent.co.nz/listings/UVU6PS,250.0,-36.882925799999995,174.7281508,250.0
+170,70 Portage Road,NewLynn,Auckland,600.0,4.0,1.0,https://www.myrent.co.nz/listings/YYAP25,150.0,-36.916506899999995,174.6913759,272.72727272727275
+171,3 Western Springs Road,Morningside,Auckland,975.0,3.0,1.0,https://www.myrent.co.nz/listings/PDBEQZ,325.0,-36.8727352,174.73737490000002,269.4444444444444
+172,787 Scenic Drive,HendersonValley,Auckland,310.0,1.0,1.0,https://www.myrent.co.nz/listings/W6DBFM,310.0,-36.899364500000004,174.5457954,315.0
+173,84 Fred Taylor Drive,Westgate,Auckland,735.0,3.0,2.0,https://www.myrent.co.nz/listings/QJ5POY,245.0,-36.8158131,174.5987356,245.0
+174,3A/72 Wellesley Street West,AucklandCentral,Auckland,795.0,2.0,1.0,https://www.myrent.co.nz/listings/QTMTFD,397.5,-36.849876,174.760203,383.5460992907801
+175,2H/50 Eden Crescent,AucklandCentral,Auckland,630.0,2.0,1.0,https://www.myrent.co.nz/listings/ZUJJDR,315.0,-36.8487481,174.7726295,383.5460992907801
+176,11 Lansdowne Street,Bayswater,Auckland,345.0,1.0,1.0,https://www.myrent.co.nz/listings/M3WIQP,345.0,-36.813977799999996,174.7703945,347.5
+177,2/211 Manukau Road,Epsom,Auckland,700.0,3.0,1.0,https://www.myrent.co.nz/listings/UCRWBL,233.33333333333331,-36.883108,174.7754434,368.94791666666663
+178,E5/71 Spencer Road,Oteha,Auckland,545.0,2.0,1.0,https://www.myrent.co.nz/listings/MYEU12,272.5,-36.72704969999999,174.7161398,237.5
+179,1303/6 Lorne Street,AucklandCentral,Auckland,730.0,2.0,2.0,https://www.myrent.co.nz/listings/VJWOUZ,365.0,-36.8498224,174.7661639,383.5460992907801
+180,3/90 Namata Road,OneTreeHill,Auckland,700.0,3.0,1.0,https://www.myrent.co.nz/listings/4AVKJN,233.33333333333331,-36.909452,174.791888,244.16666666666666
+181,31 Keppell Street,GreyLynn,Auckland,650.0,2.0,1.0,https://www.myrent.co.nz/listings/SDTJ8E,325.0,-36.8660643,174.74847490000002,347.33333333333337
+182,9A Essex Street,TeAtatuSouth,Auckland,510.0,3.0,1.0,https://www.myrent.co.nz/listings/GSTTMK,170.0,-36.870326299999995,174.6441936,191.0
+183,709/2 Beach Road,AucklandCentral,Auckland,610.0,1.0,1.0,https://www.myrent.co.nz/listings/9BK3NR,610.0,-36.8453025,174.7709543,383.5460992907801
+184,5 Truman Street,SaintJohns,Auckland,540.0,3.0,1.0,https://www.myrent.co.nz/listings/CCDVCM,180.0,-36.873787899999996,174.8357343,206.5
+185,2/19 Milan Road,Papatoetoe,Auckland,380.0,1.0,1.0,https://www.myrent.co.nz/listings/1R1SVS,380.0,-36.9894573,174.8488269,228.78571428571428
+186,107/3 Bluegrey Avenue,Stonefields,Auckland,500.0,1.0,1.0,https://www.myrent.co.nz/listings/DQXI7F,500.0,-36.88539420000001,174.84150219999998,408.75
+187,4156 Great North Road,Glendene,Auckland,580.0,3.0,1.0,https://www.myrent.co.nz/listings/NWQSHF,193.33333333333331,-36.8947031,174.64468480000002,193.33333333333331
+188,21A Blenheim Street,Glenfield,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/S3AWDT,250.0,-36.7873034,174.7286029,228.88888888888889
+189,32A Norman Close,TheGardens,Auckland,550.0,2.0,1.0,https://www.myrent.co.nz/listings/7A95KD,275.0,-37.0038333,174.9161786,239.99999999999997
+190,1G/10 Hobson Street,AucklandCentral,Auckland,530.0,1.0,1.0,https://www.myrent.co.nz/listings/HFQARN,530.0,-36.845040600000004,174.7632584,383.5460992907801
+191,3/49 Corunna Road,Milford,Auckland,560.0,2.0,1.0,https://www.myrent.co.nz/listings/SFXVTE,280.0,-36.7720633,174.7525971,224.16666666666666
+192,2/17 Paris Place,Birkenhead,Auckland,510.0,3.0,1.0,https://www.myrent.co.nz/listings/1ZT1NX,170.0,-36.806232200000004,174.71432980000003,168.33333333333331
+193,40A Swinburne Street,BlockhouseBay,Auckland,450.0,1.0,1.0,https://www.myrent.co.nz/listings/UEPXTL,450.0,-36.9162154,174.6921409,256.66666666666663
+194,800 East Coast Road,Oteha,Auckland,650.0,3.0,1.0,https://www.myrent.co.nz/listings/QWKTRN,216.66666666666663,-36.721398799999996,174.723401,237.5
+195,4/511 Parnell Road,Parnell,Auckland,625.0,2.0,1.0,https://www.myrent.co.nz/listings/URSMVO,312.5,-36.8618988,174.78154980000002,366.875
+196,7/4 View Road,MountEden,Auckland,725.0,2.0,1.0,https://www.myrent.co.nz/listings/D7UATV,362.5,-36.8742217,174.7612611,346.75
+197,3A Stanhope Road,MountWellington,Auckland,600.0,2.0,1.0,https://www.myrent.co.nz/listings/AKDNVO,300.0,-36.896266,174.8297596,248.48484848484847
+198,115 Luke Street East,Otahuhu,Auckland,580.0,4.0,1.0,https://www.myrent.co.nz/listings/MTAEM4,145.0,-36.93592720000001,174.85500090000002,230.71428571428572
+199,26 Montanez Drive,FlatBush,Auckland,710.0,4.0,3.0,https://www.myrent.co.nz/listings/1P1LHS,177.5,-36.96668820000001,174.92017019999997,242.61111111111111
+200,87 Browns Road,Manurewa,Auckland,520.0,3.0,1.0,https://www.myrent.co.nz/listings/ZKSRUB,173.33333333333337,-37.0123565,174.88037930000002,206.42857142857142
+201,13A Marr Road,Manurewa,Auckland,570.0,3.0,1.0,https://www.myrent.co.nz/listings/SRVR4P,190.0,-37.015660600000004,174.88138130000002,206.42857142857142
+202,710/2 Beach Road,AucklandCentral,Auckland,620.0,1.0,1.0,https://www.myrent.co.nz/listings/VHQJK6,620.0,-36.8453025,174.7709543,383.5460992907801
+203,13/3 Hamilton Road,HerneBay,Auckland,675.0,1.0,1.0,https://www.myrent.co.nz/listings/JOCUER,675.0,-36.8445554,174.73813959999998,625.0
+204,4/82B Luke Street East,Otahuhu,Auckland,430.0,2.0,1.0,https://www.myrent.co.nz/listings/JQFK76,215.0,-36.934314,174.8534742,230.71428571428572
+205,38 Kenderdine Road,Papatoetoe,Auckland,570.0,3.0,1.0,https://www.myrent.co.nz/listings/K7TCZP,190.0,-36.98330670000001,174.8523481,228.78571428571428
+206,1/9 Sunnynook Road,ForrestHill,Auckland,230.0,1.0,2.0,https://www.myrent.co.nz/listings/ZJFZRY,230.0,-36.752334000000005,174.74624719999997,260.83333333333337
+207,1B Marshall Laing Avenue,MountRoskill,Auckland,370.0,1.0,1.0,https://www.myrent.co.nz/listings/GJC6D6,370.0,-36.917367,174.7209862,248.19444444444443
+208,30 Glen Norman Avenue,Henderson,Auckland,390.0,2.0,1.0,https://www.myrent.co.nz/listings/D1SEUD,195.0,-36.8634282,174.6245586,322.57575757575756
+209,12 Manapouri Place,PakurangaHeights,Auckland,650.0,4.0,1.0,https://www.myrent.co.nz/listings/ONUJNM,162.5,-36.9198659,174.88705180000002,224.7222222222222
+210,174 Main Highway,Ellerslie,Auckland,730.0,3.0,1.0,https://www.myrent.co.nz/listings/WE5BAS,243.33333333333331,-36.898738,174.81241359999999,235.35714285714286
+211,514/2 Beach Road,AucklandCentral,Auckland,440.0,1.0,1.0,https://www.myrent.co.nz/listings/OA8F3I,440.0,-36.8453025,174.7709543,383.5460992907801
+212,323 Rangatira Road,BeachHaven,Auckland,360.0,1.0,1.0,https://www.myrent.co.nz/listings/QKPNJ1,360.0,-36.792412899999995,174.68792290000002,260.0
+213,21 Hillcrest Avenue,Hillcrest,Auckland,590.0,3.0,1.0,https://www.myrent.co.nz/listings/RYD3NP,196.66666666666663,-36.7933284,174.7431018,194.44444444444443
+214,205/152 Hobson Street,AucklandCentral,Auckland,430.0,1.0,1.0,https://www.myrent.co.nz/listings/6TUHTD,430.0,-36.8513789,174.76056619999997,383.5460992907801
+215,27 Juniper Road,Sunnynook,Auckland,690.0,3.0,1.0,https://www.myrent.co.nz/listings/FPKDT2,230.0,-36.7536329,174.7387928,230.0
+216,503/2 Beach Road,AucklandCentral,Auckland,470.0,1.0,1.0,https://www.myrent.co.nz/listings/XZWHDB,470.0,-36.8453025,174.7709543,383.5460992907801
+217,7/4 View Road,MountEden,Auckland,725.0,2.0,1.0,https://www.myrent.co.nz/listings/YZKGGH,362.5,-36.8742217,174.7612611,346.75
+218,3K/10 Crown Lynn Place,NewLynn,Auckland,420.0,1.0,1.0,https://www.myrent.co.nz/listings/Q72OKT,420.0,-36.912245,174.68680830000002,272.72727272727275
+219,246 Don Buck Road,Massey,Auckland,600.0,3.0,1.0,https://www.myrent.co.nz/listings/VSQKEU,200.0,-36.84312979999999,174.60434130000002,219.79166666666666
+220,97A Nile Road,Milford,Auckland,730.0,4.0,2.0,https://www.myrent.co.nz/listings/Q57QUQ,182.5,-36.77233820000001,174.75390480000002,224.16666666666666
+221,2/121 Seymour Road,Sunnyvale,Auckland,465.0,2.0,1.0,https://www.myrent.co.nz/listings/TQ5K8E,232.5,-36.9049092,174.6266788,232.5
+222,5 Lynfield Place,MountRoskill,Auckland,665.0,3.0,1.0,https://www.myrent.co.nz/listings/SHJAWN,221.66666666666663,-36.923037799999996,174.7157405,248.19444444444443
+223,8A Fowler Street,Northcote,Auckland,400.0,4.0,2.0,https://www.myrent.co.nz/listings/VVB1PC,100.0,-36.8033303,174.7431825,203.75
+224,1/20 Orcades Place,Lynfield,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/HT8KIC,250.0,-36.924275,174.721246,318.3333333333333
+225,1501/2 Beach Road,AucklandCentral,Auckland,1000.0,3.0,2.0,https://www.myrent.co.nz/listings/WIGVGG,333.3333333333333,-36.8453025,174.7709543,383.5460992907801
+226,201/1 Kimiora Street,ThreeKings,Auckland,1050.0,3.0,2.0,https://www.myrent.co.nz/listings/XTNIKE,350.0,-36.904282200000004,174.7588224,313.125
+227,3/29 Hokonui Road,Otahuhu,Auckland,480.0,2.0,1.0,https://www.myrent.co.nz/listings/AN8MF3,240.0,-36.9365604,174.8403267,230.71428571428572
+228,36 Santa Ana Drive,Dannemora,Auckland,820.0,4.0,2.0,https://www.myrent.co.nz/listings/GHW37T,205.0,-36.924406700000006,174.9267311,205.0
+229,7/4 View Road,MountEden,Auckland,725.0,2.0,1.0,https://www.myrent.co.nz/listings/9RBTM4,362.5,-36.8742217,174.7612611,346.75
+230,2/22 Balfour Road,Parnell,Auckland,1400.0,4.0,3.0,https://www.myrent.co.nz/listings/LUZTBO,350.0,-36.85044930000001,174.78427549999998,366.875
+231,21A Bangla Place,Massey,Auckland,430.0,2.0,1.0,https://www.myrent.co.nz/listings/IGQUCL,215.0,-36.835519899999994,174.6231165,219.79166666666666
+232,4 Cliff Road,Torbay,Auckland,390.0,1.0,1.0,https://www.myrent.co.nz/listings/YEW8HJ,390.0,-36.691303999999995,174.7550225,309.2857142857143
+233,10B Ocean View Road,Northcote,Auckland,480.0,2.0,1.0,https://www.myrent.co.nz/listings/GDDRGN,240.0,-36.7951217,174.74457019999997,203.75
+234,2/2 Alexander Avenue,Torbay,Auckland,320.0,1.0,1.0,https://www.myrent.co.nz/listings/HQW9CC,320.0,-36.7055953,174.7445989,309.2857142857143
+235,62 Huntington Drive,HuntingtonPark,Auckland,630.0,3.0,2.0,https://www.myrent.co.nz/listings/HEK9WC,210.0,-36.9300742,174.904478,210.0
+236,2 Kauri Point Road,Laingholm,Auckland,260.0,1.0,1.0,https://www.myrent.co.nz/listings/5H7UDI,260.0,-36.9702066,174.636014,260.0
+237,2 The Way,Beachlands,Auckland,320.0,1.0,1.0,https://www.myrent.co.nz/listings/HGGRMT,320.0,-36.887003899999996,175.0047191,256.66666666666663
+238,37 Williamson Avenue,GreyLynn,Auckland,950.0,3.0,2.0,https://www.myrent.co.nz/listings/HRQJNQ,316.6666666666667,-36.8601446,174.7451631,347.33333333333337
+239,48A Bel Air Drive,Hillsborough,Auckland,655.0,3.0,1.0,https://www.myrent.co.nz/listings/EB7XIU,218.33333333333331,-36.9182215,174.764135,218.33333333333331
+240,1 Mapau Road,Greenlane,Auckland,305.0,1.0,1.0,https://www.myrent.co.nz/listings/YSGNKH,305.0,-36.888733200000004,174.7920779,271.1111111111111
+241,23A Vanbrugh Place,BucklandsBeach,Auckland,300.0,3.0,1.0,https://www.myrent.co.nz/listings/PECGN9,100.0,-36.885867499999996,174.91120780000003,179.28333333333333
+242,3/29 Hokonui Road,Otahuhu,Auckland,490.0,2.0,1.0,https://www.myrent.co.nz/listings/DS65RB,245.0,-36.9365604,174.8403267,230.71428571428572
+243,13/18 Edenvale Crescent,MountEden,Auckland,380.0,1.0,1.0,https://www.myrent.co.nz/listings/VPFPM9,380.0,-36.8710338,174.75824430000003,346.75
+244,4/511 Parnell Road,Parnell,Auckland,625.0,2.0,1.0,https://www.myrent.co.nz/listings/UV5NYK,312.5,-36.8618988,174.78154980000002,366.875
+245,30 Glen Norman Avenue,Henderson,Auckland,390.0,2.0,1.0,https://www.myrent.co.nz/listings/DWEH9C,195.0,-36.8634282,174.6245586,322.57575757575756
+246,16 Stewart Gibson Place,TheGardens,Auckland,680.0,3.0,2.0,https://www.myrent.co.nz/listings/UBPFZJ,226.66666666666663,-37.013266200000004,174.91476219999998,239.99999999999997
+247,4/619 Dominion Road,MountEden,Auckland,495.0,2.0,1.0,https://www.myrent.co.nz/listings/CCHVPB,247.5,-36.889601899999995,174.746419,346.75
+248,4A San Vito Place,Henderson,Auckland,450.0,2.0,1.0,https://www.myrent.co.nz/listings/IBZ7CP,225.0,-36.8892767,174.6137477,322.57575757575756
+249,14 Minto Road,Remuera,Auckland,400.0,1.0,1.0,https://www.myrent.co.nz/listings/2J8JQC,400.0,-36.8815852,174.8127114,369.0
+250,3/21 Jutland Road,Hauraki,Auckland,640.0,2.0,1.0,https://www.myrent.co.nz/listings/TUND5U,320.0,-36.799376,174.77712649999998,319.0
+251,148 Quay Street,AucklandCentral,Auckland,450.0,1.0,1.0,https://www.myrent.co.nz/listings/ARRFJN,450.0,-36.843749200000005,174.7680622,383.5460992907801
+252,27B Stott Avenue,Birkdale,Auckland,335.0,1.0,1.0,https://www.myrent.co.nz/listings/OKNQEZ,335.0,-36.8011894,174.700511,315.0
+253,24 Charlestown Drive,FlatBush,Auckland,440.0,2.0,1.0,https://www.myrent.co.nz/listings/FR7CZS,220.0,-36.976127399999996,174.91374,242.61111111111111
+254,58B Central Avenue,Papatoetoe,Auckland,460.0,2.0,1.0,https://www.myrent.co.nz/listings/OYWFQB,230.0,-36.9752755,174.864919,228.78571428571428
+255,33 School Road,TeAtatuSouth,Auckland,650.0,3.0,1.0,https://www.myrent.co.nz/listings/L2FLNE,216.66666666666663,-36.865587700000006,174.6406259,191.0
+256,16 Stewart Gibson Place,TheGardens,Auckland,680.0,3.0,2.0,https://www.myrent.co.nz/listings/ZKVUG9,226.66666666666663,-37.013266200000004,174.91476219999998,239.99999999999997
+257,84 Avenue Road,Otahuhu,Auckland,395.0,1.0,1.0,https://www.myrent.co.nz/listings/LGQ71X,395.0,-36.9413982,174.85068049999998,230.71428571428572
+258,24A Karaka Street,NewLynn,Auckland,630.0,4.0,2.0,https://www.myrent.co.nz/listings/CQFVZ9,157.5,-36.9078854,174.6720994,272.72727272727275
+259,49 Robertson Road,Favona,Auckland,550.0,3.0,1.0,https://www.myrent.co.nz/listings/QGXW4V,183.33333333333331,-36.9561773,174.8034941,178.33333333333334
+260,33 West Harbour Drive,WestHarbour,Auckland,560.0,3.0,1.0,https://www.myrent.co.nz/listings/QIPHUX,186.66666666666663,-36.824186,174.6291761,184.44444444444443
+261,2/7 Cumberland Avenue,Westmere,Auckland,580.0,2.0,1.0,https://www.myrent.co.nz/listings/32CQCM,290.0,-36.85720690000001,174.72321780000001,290.0
+262,1/2 Pitlochry Place,HighlandPark,Auckland,600.0,2.0,1.0,https://www.myrent.co.nz/listings/VN4WUD,300.0,-36.903718700000006,174.91193810000001,300.0
+263,18 Tauoma Crescent,Stonefields,Auckland,635.0,2.0,1.0,https://www.myrent.co.nz/listings/EV8FX3,317.5,-36.8884006,174.84730280000002,408.75
+264,68A Hutchinsons Road,BucklandsBeach,Auckland,850.0,4.0,3.0,https://www.myrent.co.nz/listings/TMXMT1,212.5,-36.8937605,174.9124142,179.28333333333333
+265,12/2 Western Springs Road,Morningside,Auckland,640.0,3.0,2.0,https://www.myrent.co.nz/listings/VWRL8Z,213.33333333333331,-36.8732706,174.7377104,269.4444444444444
+266,13/18 Edenvale Crescent,MountEden,Auckland,380.0,1.0,1.0,https://www.myrent.co.nz/listings/QRNTKW,380.0,-36.8710338,174.75824430000003,346.75
+267,2/130 Shackleton Road,MountEden,Auckland,420.0,1.0,1.0,https://www.myrent.co.nz/listings/G8GX5Y,420.0,-36.8945253,174.74598830000002,346.75
+268,211/2 Maungawhau Road,Epsom,Auckland,495.0,1.0,1.0,https://www.myrent.co.nz/listings/QZZ6CL,495.0,-36.866950700000004,174.7721909,368.94791666666663
+269,5 Hutchinson Avenue,NewLynn,Auckland,595.0,3.0,1.0,https://www.myrent.co.nz/listings/Y3MDER,198.33333333333331,-36.9154154,174.68009890000002,272.72727272727275
+270,,CampbellsBay,Auckland,450.0,1.0,1.0,https://www.myrent.co.nz/listings/3WDPDQ,450.0,-36.7467982,174.761271,405.5555555555556
+271,17A Luanda Drive,Ranui,Auckland,480.0,3.0,1.0,https://www.myrent.co.nz/listings/7YHAQS,160.0,-36.8627072,174.5985206,190.96666666666664
+272,73 Moore Street,Howick,Auckland,695.0,4.0,1.0,https://www.myrent.co.nz/listings/CXA2P2,173.75,-36.89660870000001,174.9295853,228.375
+273,15 Addison Street,BlockhouseBay,Auckland,595.0,3.0,1.0,https://www.myrent.co.nz/listings/EGYQ7J,198.33333333333331,-36.915821799999996,174.69637880000002,256.66666666666663
+274,,MountRoskill,Auckland,650.0,3.0,1.0,https://www.myrent.co.nz/listings/H458XH,216.66666666666663,-36.9046678,174.741694,248.19444444444443
+275,7/4 View Road,MountEden,Auckland,750.0,2.0,1.0,https://www.myrent.co.nz/listings/VB9MWJ,375.0,-36.8742217,174.7612611,346.75
+276,1/20 Orcades Place,Lynfield,Auckland,470.0,2.0,1.0,https://www.myrent.co.nz/listings/BQKGPS,235.0,-36.924275,174.721246,318.3333333333333
+277,74 Princes Street,NorthcotePoint,Auckland,460.0,1.0,1.0,https://www.myrent.co.nz/listings/VRDPBG,460.0,-36.8203623,174.7480733,384.0
+278,34 Brentwood Avenue,MountEden,Auckland,390.0,1.0,1.0,https://www.myrent.co.nz/listings/CBDB3B,390.0,-36.8699995,174.7539748,346.75
+279,14 Craigavon Drive,EastTamaki,Auckland,800.0,3.0,2.0,https://www.myrent.co.nz/listings/TTNRGD,266.6666666666667,-36.9466709,174.9043789,266.6666666666667
+280,2/130 Shackleton Road,MountEden,Auckland,450.0,1.0,1.0,https://www.myrent.co.nz/listings/JDCFBQ,450.0,-36.8945253,174.74598830000002,346.75
+281,841A Beach Road,BrownsBay,Auckland,560.0,2.0,1.0,https://www.myrent.co.nz/listings/QVTZ1V,280.0,-36.710732,174.7459295,236.46666666666664
+282,1/41 Ellice Road,TotaraVale,Auckland,550.0,3.0,1.0,https://www.myrent.co.nz/listings/9OR1FP,183.33333333333331,-36.767099200000004,174.7275193,194.99999999999994
+283,1814/1 Courthouse Lane,AucklandCentral,Auckland,675.0,2.0,1.0,https://www.myrent.co.nz/listings/8UPVJX,337.5,-36.84826100000001,174.7668761,383.5460992907801
+284,7A Parkvale Grove,TeAtatuPeninsula,Auckland,400.0,2.0,1.0,https://www.myrent.co.nz/listings/HHYEJU,200.0,-36.8517588,174.65044790000002,211.45833333333331
+285,3/21 Jutland Road,Hauraki,Auckland,650.0,2.0,1.0,https://www.myrent.co.nz/listings/N6FXD6,325.0,-36.799376,174.77712649999998,319.0
+286,,Paremoremo,Auckland,510.0,2.0,1.0,https://www.myrent.co.nz/listings/GWCS6N,255.0,-36.75821090000001,174.6507476,255.0
+287,1401/20 McCrae Way,NewLynn,Auckland,460.0,1.0,1.0,https://www.myrent.co.nz/listings/JV3EJS,460.0,-36.909113,174.683432,272.72727272727275
+288,940A East Coast Road,Northcross,Auckland,555.0,3.0,1.0,https://www.myrent.co.nz/listings/RV4TCD,185.0,-36.710242,174.72753730000002,185.0
+289,193 Methuen Road,NewWindsor,Auckland,1100.0,5.0,3.0,https://www.myrent.co.nz/listings/DC9PD9,220.0,-36.9016884,174.7136372,215.41666666666669
+290,,Howick,Auckland,330.0,1.0,1.0,https://www.myrent.co.nz/listings/WYTFOA,330.0,-36.892947799999995,174.9243831,228.375
+291,2A Karaka Street,Takapuna,Auckland,680.0,3.0,2.0,https://www.myrent.co.nz/listings/W1G6U5,226.66666666666663,-36.7883366,174.75903269999998,389.88095238095235
+292,89C Takahe Road,Titirangi,Auckland,270.0,1.0,1.0,https://www.myrent.co.nz/listings/Y164LP,270.0,-36.9370973,174.6678159,270.0
+293,12B Tanglewood Place,CockleBay,Auckland,420.0,1.0,1.0,https://www.myrent.co.nz/listings/OGAV6A,420.0,-36.898648400000006,174.936868,420.0
+294,2/18 Mander Place,BucklandsBeach,Auckland,725.0,4.0,2.0,https://www.myrent.co.nz/listings/CC9FVB,181.25,-36.879248600000004,174.90922759999998,179.28333333333333
+295,21 Hillcrest Avenue,Hillcrest,Auckland,590.0,3.0,1.0,https://www.myrent.co.nz/listings/MRNQJ7,196.66666666666663,-36.7933284,174.7431018,194.44444444444443
+296,3/35 Mahia Road,Manurewa,Auckland,445.0,2.0,1.0,https://www.myrent.co.nz/listings/GCH4J2,222.5,-37.0335662,174.90090800000002,206.42857142857142
+297,,Manurewa,Auckland,440.0,2.0,1.0,https://www.myrent.co.nz/listings/YDFCJJ,220.0,-37.025395399999994,174.8934802,206.42857142857142
+298,19 Thomas Rielly Avenue,Hobsonville,Auckland,480.0,2.0,1.0,https://www.myrent.co.nz/listings/YGOXLP,240.0,-36.801103000000005,174.65903219999998,241.66666666666666
+299,10/533 Manukau Road,Epsom,Auckland,470.0,1.0,1.0,https://www.myrent.co.nz/listings/SG2ZJA,470.0,-36.8974427,174.7733744,368.94791666666663
+300,2 Bahari Drive,Ranui,Auckland,1000.0,6.0,3.0,https://www.myrent.co.nz/listings/1ZFPWS,166.66666666666666,-36.8621872,174.6070149,190.96666666666664
+301,9 Bishop Street,GreenBay,Auckland,480.0,2.0,1.0,https://www.myrent.co.nz/listings/YCFYB4,240.0,-36.9307885,174.6844714,201.25
+302,841A Beach Road,BrownsBay,Auckland,580.0,2.0,1.0,https://www.myrent.co.nz/listings/BBFAN9,290.0,-36.710732,174.7459295,236.46666666666664
+303,6 Widdison Place,Albany,Auckland,900.0,4.0,3.0,https://www.myrent.co.nz/listings/NYXGZA,225.0,-36.7311084,174.6937331,297.4
+304,1303/2 Beach Road,AucklandCentral,Auckland,2000.0,3.0,3.0,https://www.myrent.co.nz/listings/DCUU4Z,666.6666666666666,-36.8453025,174.7709543,383.5460992907801
+305,39 Aberley Road,SchnapperRock,Auckland,1100.0,5.0,3.0,https://www.myrent.co.nz/listings/VCL3WJ,220.0,-36.752295600000004,174.6856796,220.0
+306,76 Ferndown Avenue,Papatoetoe,Auckland,335.0,1.0,1.0,https://www.myrent.co.nz/listings/A2XCU6,335.0,-36.9812589,174.8353976,228.78571428571428
+307,115 Luke Street East,Otahuhu,Auckland,300.0,4.0,1.0,https://www.myrent.co.nz/listings/DPSQLW,75.0,-36.93592720000001,174.85500090000002,230.71428571428572
+308,104A Bleakhouse Road,MellonsBay,Auckland,520.0,2.0,1.0,https://www.myrent.co.nz/listings/AEEFYH,260.0,-36.8863464,174.92121880000002,260.0
+309,7 Kallaroo Place,BotanyDowns,Auckland,720.0,5.0,2.0,https://www.myrent.co.nz/listings/XMRTQN,144.0,-36.9133842,174.92056159999998,192.26666666666665
+310,34 Albany Highway,Greenhithe,Auckland,560.0,4.0,1.0,https://www.myrent.co.nz/listings/JUFBFT,140.0,-36.763830299999995,174.71650280000003,140.0
+311,3 Park Avenue,Grafton,Auckland,430.0,1.0,1.0,https://www.myrent.co.nz/listings/ZRBCS3,430.0,-36.863026899999994,174.76839669999998,292.91666666666663
+312,1/12 Earnoch Avenue,Takapuna,Auckland,450.0,1.0,1.0,https://www.myrent.co.nz/listings/SQAKPA,450.0,-36.7825593,174.7756501,389.88095238095235
+313,10 Blomfield Spa,Takapuna,Auckland,750.0,2.0,1.0,https://www.myrent.co.nz/listings/397BNH,375.0,-36.7899419,174.7742854,389.88095238095235
+314,421/57 Mahuhu Crescent,AucklandCentral,Auckland,690.0,2.0,1.0,https://www.myrent.co.nz/listings/FAWNBA,345.0,-36.8474211,174.77539730000004,383.5460992907801
+315,5B/6 Winchester Street,GreyLynn,Auckland,710.0,3.0,1.0,https://www.myrent.co.nz/listings/AK2QYA,236.66666666666663,-36.8608103,174.7542676,347.33333333333337
+316,,CastorBay,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/6ODZXB,250.0,-36.7579305,174.7667731,268.75
+317,11A Barrie Avenue,Papatoetoe,Auckland,260.0,1.0,1.0,https://www.myrent.co.nz/listings/EUR2UE,260.0,-36.9724456,174.84605269999997,228.78571428571428
+318,80A Lynn Road,Bayview,Auckland,590.0,3.0,2.0,https://www.myrent.co.nz/listings/PG5C3J,196.66666666666663,-36.7752573,174.7024968,193.5
+319,8 Williams Avenue,Pakuranga,Auckland,870.0,5.0,3.0,https://www.myrent.co.nz/listings/TESHZW,174.0,-36.9109936,174.8660069,185.33333333333331
+320,102 Clonbern Road,Remuera,Auckland,300.0,1.0,1.0,https://www.myrent.co.nz/listings/NTPNRS,300.0,-36.8873977,174.795873,369.0
+321,25 Hills Road,Otara,Auckland,200.0,4.0,2.0,https://www.myrent.co.nz/listings/MKQ84B,50.0,-36.9587788,174.8828149,90.0
+322,73 Moore Street,Howick,Auckland,725.0,4.0,1.0,https://www.myrent.co.nz/listings/JIKRRV,181.25,-36.89660870000001,174.9295853,228.375
+323,1B Grainger Road,TeAtatuSouth,Auckland,680.0,4.0,2.0,https://www.myrent.co.nz/listings/5HXP86,170.0,-36.8621833,174.6459489,191.0
+324,17 Patons Road,Howick,Auckland,920.0,5.0,3.0,https://www.myrent.co.nz/listings/DAAWTY,184.0,-36.892166100000004,174.9206143,228.375
+325,23 Quinns Road,Waiatarua,Auckland,1200.0,3.0,2.0,https://www.myrent.co.nz/listings/HLX33E,400.0,-36.9363477,174.5776842,297.5
+326,10 Plantation Avenue,FlatBush,Auckland,750.0,4.0,2.0,https://www.myrent.co.nz/listings/6B5ZXI,187.5,-36.95908440000001,174.9200145,242.61111111111111
+327,268 Forest Hill Road,Waiatarua,Auckland,780.0,4.0,2.0,https://www.myrent.co.nz/listings/4FFDZC,195.0,-36.9196745,174.58681909999999,297.5
+328,482 Great South Road,Papatoetoe,Auckland,890.0,5.0,3.0,https://www.myrent.co.nz/listings/TO8FS6,178.0,-36.9774314,174.87080509999998,228.78571428571428
+329,1 Babington Place,Torbay,Auckland,720.0,3.0,2.0,https://www.myrent.co.nz/listings/2MJYNH,240.0,-36.6931685,174.74201599999998,309.2857142857143
+330,44 Merton Road,SaintJohns,Auckland,880.0,4.0,2.0,https://www.myrent.co.nz/listings/12ZONS,220.0,-36.8791399,174.84546559999998,206.5
+331,10 Quail Drive,AlbanyHeights,Auckland,995.0,5.0,2.0,https://www.myrent.co.nz/listings/11GZWS,199.0,-36.71751709999999,174.69434209999997,199.0
+332,2/619 Dominion Road,MountEden,Auckland,540.0,2.0,1.0,https://www.myrent.co.nz/listings/WTKGLQ,270.0,-36.889601899999995,174.746419,346.75
+333,912/2 Beach Road,AucklandCentral,Auckland,700.0,2.0,1.0,https://www.myrent.co.nz/listings/YJJXST,350.0,-36.8453025,174.7709543,383.5460992907801
+334,F/73 Parnell Road,Parnell,Auckland,550.0,2.0,1.0,https://www.myrent.co.nz/listings/ANRRPX,275.0,-36.8524419,174.77834319999997,366.875
+335,47L Wallace Street,HerneBay,Auckland,590.0,1.0,1.0,https://www.myrent.co.nz/listings/HBW8L4,590.0,-36.8423467,174.7333878,625.0
+336,7 Kallaroo Place,BotanyDowns,Auckland,720.0,5.0,2.0,https://www.myrent.co.nz/listings/Z52GND,144.0,-36.9133842,174.92056159999998,192.26666666666665
+337,147 Rangatira Road,BeachHaven,Auckland,630.0,3.0,1.0,https://www.myrent.co.nz/listings/WTDEGT,210.0,-36.8046341,174.69336230000002,260.0
+338,6/10A Arabi Street,Sandringham,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/TIQ3CO,250.0,-36.8874062,174.7423903,227.97619047619045
+339,12 Malabar Drive,Ellerslie,Auckland,850.0,4.0,2.0,https://www.myrent.co.nz/listings/Z3IBWE,212.5,-36.8935588,174.8145629,235.35714285714286
+340,147 Nelson Street,AucklandCentral,Auckland,580.0,2.0,1.0,https://www.myrent.co.nz/listings/PAHTRW,290.0,-36.852667700000005,174.75745890000002,383.5460992907801
+341,,MountRoskill,Auckland,630.0,4.0,1.0,https://www.myrent.co.nz/listings/F43W2H,157.5,-36.9046678,174.741694,248.19444444444443
+342,787 Scenic Drive,HendersonValley,Auckland,320.0,1.0,1.0,https://www.myrent.co.nz/listings/OMEDTB,320.0,-36.899364500000004,174.5457954,315.0
+343,2/50 Taharoto Road,Takapuna,Auckland,930.0,4.0,2.0,https://www.myrent.co.nz/listings/FTCNCJ,232.5,-36.786933700000006,174.7576314,389.88095238095235
+344,,PointChevalier,Auckland,430.0,1.0,1.0,https://www.myrent.co.nz/listings/XFHBGE,430.0,-36.870872,174.7098175,430.0
+345,12 Airey Place,Torbay,Auckland,600.0,3.0,1.0,https://www.myrent.co.nz/listings/D2SJIV,200.0,-36.706844399999994,174.73894109999998,309.2857142857143
+346,31 Lawson Creek Street,Massey,Auckland,590.0,2.0,1.0,https://www.myrent.co.nz/listings/E6Z9F8,295.0,-36.8296192,174.6140026,219.79166666666666
+347,213 Portage Road,GreenBay,Auckland,650.0,4.0,2.0,https://www.myrent.co.nz/listings/CGMFG2,162.5,-36.9292338,174.68886840000002,201.25
+348,3/18 Sydney Street,Hauraki,Auckland,650.0,2.0,1.0,https://www.myrent.co.nz/listings/VNNHFG,325.0,-36.801198299999996,174.7726755,319.0
+349,27 Lawson Creek Street,Massey,Auckland,580.0,2.0,1.0,https://www.myrent.co.nz/listings/DKFI7J,290.0,-36.8296192,174.6140026,219.79166666666666
+350,8B Cameron Place,Ranui,Auckland,650.0,4.0,1.0,https://www.myrent.co.nz/listings/Y1ESJV,162.5,-36.8645206,174.6064179,190.96666666666664
+351,15 James Tyler Crescent,Lynfield,Auckland,560.0,3.0,1.0,https://www.myrent.co.nz/listings/XUP7KI,186.66666666666663,-36.9303437,174.72777659999997,318.3333333333333
+352,1M/250 Richmond Road,GreyLynn,Auckland,400.0,1.0,1.0,https://www.myrent.co.nz/listings/ZDVDJB,400.0,-36.8541568,174.7335156,347.33333333333337
+353,9C Vernon Street,AucklandCentral,Auckland,900.0,3.0,2.0,https://www.myrent.co.nz/listings/EZT9AP,300.0,-36.849002399999996,174.75587969999998,383.5460992907801
+354,1/45A Puhinui Road,Manukau,Auckland,250.0,1.0,1.0,https://www.myrent.co.nz/listings/4BHMLY,250.0,-36.983004,174.87243940000002,250.0
+355,1112/2 Beach Road,AucklandCentral,Auckland,790.0,2.0,1.0,https://www.myrent.co.nz/listings/USHRQ3,395.0,-36.8453025,174.7709543,383.5460992907801
+356,26/2 Arawa Street,NewLynn,Auckland,570.0,3.0,1.0,https://www.myrent.co.nz/listings/H2E4GV,190.0,-36.9107422,174.675406,272.72727272727275
+357,84A Aranui Road,MountWellington,Auckland,310.0,3.0,1.0,https://www.myrent.co.nz/listings/KSQ3HX,103.33333333333331,-36.9154614,174.82955149999998,248.48484848484847
+358,2/43 Celtic Crescent,Ellerslie,Auckland,545.0,2.0,1.0,https://www.myrent.co.nz/listings/2DFYPJ,272.5,-36.8886915,174.82487930000002,235.35714285714286
+359,47 Cardiff Road,PakurangaHeights,Auckland,560.0,3.0,1.0,https://www.myrent.co.nz/listings/ZYE6WH,186.66666666666663,-36.916677500000006,174.8761174,224.7222222222222
+360,77 MacLeans Road,BucklandsBeach,Auckland,930.0,5.0,2.0,https://www.myrent.co.nz/listings/RYVQLH,186.0,-36.8848197,174.91568869999998,179.28333333333333
+361,202/47 Hobson Street,AucklandCentral,Auckland,400.0,1.0,1.0,https://www.myrent.co.nz/listings/ZREGQ7,400.0,-36.84723220000001,174.7618548,383.5460992907801
+362,139 Don Buck Road,Massey,Auckland,420.0,2.0,1.0,https://www.myrent.co.nz/listings/JCD9C3,210.0,-36.8511362,174.6105756,219.79166666666666
+363,47 Lockheed Street,Hobsonville,Auckland,925.0,5.0,3.0,https://www.myrent.co.nz/listings/Q2U9DR,185.0,-36.7940609,174.6514622,241.66666666666666
+364,6D/34 Kingston Street,AucklandCentral,Auckland,475.0,2.0,1.0,https://www.myrent.co.nz/listings/F1YDPB,237.5,-36.8473989,174.76231289999998,383.5460992907801
+365,5 Lynfield Place,MountRoskill,Auckland,670.0,3.0,1.0,https://www.myrent.co.nz/listings/MW4KUR,223.33333333333331,-36.923037799999996,174.7157405,248.19444444444443
+366,1/41 Ellice Road,TotaraVale,Auckland,550.0,3.0,1.0,https://www.myrent.co.nz/listings/GDWDPL,183.33333333333331,-36.767099200000004,174.7275193,194.99999999999994
+367,9 Stottholm Road,Titirangi,Auckland,270.0,1.0,1.0,https://www.myrent.co.nz/listings/CFBGDF,270.0,-36.927332299999996,174.67000290000001,270.0
+368,2 Mediterranean Way,GoodwoodHeights,Auckland,390.0,1.0,1.0,https://www.myrent.co.nz/listings/DHGOS7,390.0,-36.996308299999995,174.89298369999997,279.375
+369,497 Ormiston Road,FlatBush,Auckland,950.0,4.0,2.0,https://www.myrent.co.nz/listings/5FHOJG,237.5,-36.9673005,174.93854960000002,242.61111111111111
+370,1/20A Malmo Place,Massey,Auckland,420.0,2.0,1.0,https://www.myrent.co.nz/listings/DOD2CS,210.0,-36.8410016,174.60545380000002,219.79166666666666
+371,74 Lynn Road,Bayview,Auckland,580.0,3.0,1.0,https://www.myrent.co.nz/listings/DNEXZQ,193.33333333333331,-36.775500799999996,174.7030359,193.5
+372,26 College Road,SaintJohns,Auckland,730.0,4.0,2.0,https://www.myrent.co.nz/listings/N6E4FY,182.5,-36.8772481,174.84235569999998,206.5
+373,G03/7 Ratanui Street,Henderson,Auckland,495.0,1.0,1.0,https://www.myrent.co.nz/listings/UAHZ2W,495.0,-36.878625799999995,174.6328938,322.57575757575756
+374,6 Gibbons Road,Weymouth,Auckland,550.0,3.0,1.0,https://www.myrent.co.nz/listings/WHS44V,183.33333333333331,-37.045286299999994,174.8630698,207.91666666666666
+375,,BlockhouseBay,Auckland,400.0,1.0,1.0,https://www.myrent.co.nz/listings/HKKO4E,400.0,-36.923360100000004,174.6999997,256.66666666666663
+376,,RoyalOak,Auckland,540.0,2.0,1.0,https://www.myrent.co.nz/listings/NWYIAQ,270.0,-36.911787100000005,174.776076,230.0
+377,7 Byron Avenue,Takapuna,Auckland,570.0,1.0,1.0,https://www.myrent.co.nz/listings/S9RMGB,570.0,-36.7905795,174.7717934,389.88095238095235
+378,,Remuera,Auckland,795.0,3.0,2.0,https://www.myrent.co.nz/listings/CCX6PS,265.0,-36.8807382,174.7981463,369.0
+379,8 Thompson Park Road,MountWellington,Auckland,630.0,1.0,2.0,https://www.myrent.co.nz/listings/9LYKJX,630.0,-36.899201299999994,174.834173,248.48484848484847
+380,3K/10 Crown Lynn Place,NewLynn,Auckland,400.0,1.0,1.0,https://www.myrent.co.nz/listings/BSQOWI,400.0,-36.912245,174.68680830000002,272.72727272727275
+381,36 Middleton Road,Remuera,Auckland,550.0,2.0,1.0,https://www.myrent.co.nz/listings/NAVIVJ,275.0,-36.8687911,174.78188490000002,369.0
+382,147 Nelson Street,AucklandCentral,Auckland,400.0,2.0,1.0,https://www.myrent.co.nz/listings/MVNHJ8,200.0,-36.852667700000005,174.75745890000002,383.5460992907801
+383,8A Fowler Street,Northcote,Auckland,400.0,4.0,2.0,https://www.myrent.co.nz/listings/TDZNHF,100.0,-36.8033303,174.7431825,203.75
+384,31 Ranfurly Road,Epsom,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/HHVZXM,250.0,-36.8850987,174.777898,368.94791666666663
+385,19 Bruce Road,Glenfield,Auckland,590.0,3.0,2.0,https://www.myrent.co.nz/listings/DTTG3Y,196.66666666666663,-36.780269399999995,174.7385171,228.88888888888889
+386,568 Great South Road,Otahuhu,Auckland,900.0,3.0,3.0,https://www.myrent.co.nz/listings/WTDYEL,300.0,-36.9507725,174.8454719,230.71428571428572
+387,1/43 Celtic Crescent,Ellerslie,Auckland,545.0,2.0,1.0,https://www.myrent.co.nz/listings/SG2QXV,272.5,-36.8886915,174.82487930000002,235.35714285714286
+388,84 Aranui Road,MountWellington,Auckland,520.0,3.0,1.0,https://www.myrent.co.nz/listings/T9UCO6,173.33333333333337,-36.9154296,174.8294059,248.48484848484847
+389,9B Keppell Street,GreyLynn,Auckland,260.0,2.0,1.0,https://www.myrent.co.nz/listings/N63XC2,130.0,-36.8648664,174.7499186,347.33333333333337
+390,8/60 Grange Road,MountEden,Auckland,710.0,3.0,1.0,https://www.myrent.co.nz/listings/AG292W,236.66666666666663,-36.8834148,174.7572605,346.75
+391,21 Phoenix Place,Papatoetoe,Auckland,745.0,6.0,3.0,https://www.myrent.co.nz/listings/NCQQK9,124.16666666666669,-36.97459509999999,174.8406199,228.78571428571428
+392,6 Locarno Avenue,Sandringham,Auckland,600.0,3.0,1.0,https://www.myrent.co.nz/listings/NWPY43,200.0,-36.8868484,174.73188869999998,227.97619047619045
+393,20 Vodanovich Road,TeAtatuSouth,Auckland,550.0,3.0,1.0,https://www.myrent.co.nz/listings/ETHYDN,183.33333333333331,-36.863544,174.6438325,191.0
+394,16 Albert Road,Kelston,Auckland,400.0,2.0,1.0,https://www.myrent.co.nz/listings/NSHZ1B,200.0,-36.896391200000004,174.66644780000001,200.0
+395,,Bayview,Auckland,600.0,3.0,1.0,https://www.myrent.co.nz/listings/NDYEKQ,200.0,-36.7729126,174.7085864,193.5
+396,1B Barrack Road,MountWellington,Auckland,470.0,3.0,1.0,https://www.myrent.co.nz/listings/CKP89K,156.66666666666666,-36.89679520000001,174.8403003,248.48484848484847
+397,406/105 Queen Street,AucklandCentral,Auckland,450.0,1.0,1.0,https://www.myrent.co.nz/listings/IQCAYR,450.0,-36.846114799999995,174.76602880000002,383.5460992907801
+398,84A Aranui Road,MountWellington,Auckland,520.0,3.0,1.0,https://www.myrent.co.nz/listings/SXHHNR,173.33333333333337,-36.9154614,174.82955149999998,248.48484848484847
+399,22 Amherst Place,Albany,Auckland,545.0,1.0,1.0,https://www.myrent.co.nz/listings/TMOHM4,545.0,-36.741512,174.6977099,297.4
+400,142 Titirangi Road,NewLynn,Auckland,580.0,3.0,1.0,https://www.myrent.co.nz/listings/VYWHRO,193.33333333333331,-36.9173469,174.66649850000002,272.72727272727275
+401,66A Ballarat Street,Ellerslie,Auckland,460.0,2.0,1.0,https://www.myrent.co.nz/listings/L6XVOB,230.0,-36.89318960000001,174.82432419999998,235.35714285714286
+402,3/3 Patterson Street,Sandringham,Auckland,480.0,2.0,1.0,https://www.myrent.co.nz/listings/DC6EXB,240.0,-36.8867157,174.7388764,227.97619047619045
+403,124 Weymouth Road,Manurewa,Auckland,580.0,3.0,1.0,https://www.myrent.co.nz/listings/TVWGWH,193.33333333333331,-37.028330100000005,174.88585700000002,206.42857142857142
+404,38 Paramu Avenue,Birkdale,Auckland,360.0,1.0,1.0,https://www.myrent.co.nz/listings/SPXIP3,360.0,-36.79591370000001,174.7038284,315.0
+405,109/2 Maungawhau Road,Epsom,Auckland,485.0,1.0,1.0,https://www.myrent.co.nz/listings/JHGECX,485.0,-36.866950700000004,174.7721909,368.94791666666663
+406,3/27 Moata Road,OneTreeHill,Auckland,510.0,2.0,1.0,https://www.myrent.co.nz/listings/LU5ISA,255.0,-36.907314299999996,174.79258240000001,244.16666666666666
+407,14C/30 Westward Ho,GlenEden,Auckland,325.0,1.0,1.0,https://www.myrent.co.nz/listings/YADHAF,325.0,-36.908246500000004,174.6600986,224.79166666666666
+408,2/17 Paris Place,Birkenhead,Auckland,500.0,3.0,1.0,https://www.myrent.co.nz/listings/7PCATA,166.66666666666666,-36.806232200000004,174.71432980000003,168.33333333333331
+409,50A Golf Road,NewLynn,Auckland,370.0,1.0,1.0,https://www.myrent.co.nz/listings/KDSTPA,370.0,-36.9255424,174.68132230000003,272.72727272727275
+410,112 Williamson Avenue,GreyLynn,Auckland,390.0,1.0,1.0,https://www.myrent.co.nz/listings/NRADQQ,390.0,-36.8632973,174.74105790000002,347.33333333333337
+411,8A Orbit Place,FlatBush,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/5UGFPW,250.0,-36.9829959,174.9036595,242.61111111111111
+412,72 Nelson Street,AucklandCentral,Auckland,450.0,2.0,1.0,https://www.myrent.co.nz/listings/Y1M4AE,225.0,-36.850718,174.75930280000003,383.5460992907801
+413,147 Nelson Street,AucklandCentral,Auckland,500.0,1.0,1.0,https://www.myrent.co.nz/listings/RUMXUE,500.0,-36.852667700000005,174.75745890000002,383.5460992907801
+414,62 McIntyre Road,MangereBridge,Auckland,360.0,1.0,1.0,https://www.myrent.co.nz/listings/7PGFDN,360.0,-36.9441402,174.7791718,255.0
+415,19 Jordan Road,Mangere,Auckland,625.0,3.0,1.0,https://www.myrent.co.nz/listings/SAD31T,208.33333333333331,-36.97452620000001,174.7931552,398.3333333333333
+416,70 Gosford Drive,BotanyDowns,Auckland,680.0,3.0,2.0,https://www.myrent.co.nz/listings/5HBNRY,226.66666666666663,-36.9085721,174.91354130000002,192.26666666666665
+417,,Epsom,Auckland,795.0,4.0,2.0,https://www.myrent.co.nz/listings/AAIPGE,198.75,-36.893630200000004,174.77433330000002,368.94791666666663
+418,3/171A Portland Road,Remuera,Auckland,650.0,2.0,1.0,https://www.myrent.co.nz/listings/MPIJ1N,325.0,-36.8664045,174.7966142,369.0
+419,256B New Windsor Road,NewWindsor,Auckland,490.0,3.0,1.0,https://www.myrent.co.nz/listings/IG7VMH,163.33333333333334,-36.9100544,174.717709,215.41666666666669
+420,1/26 Scarborough Terrace,Parnell,Auckland,460.0,1.0,1.0,https://www.myrent.co.nz/listings/NO3BDK,460.0,-36.8549512,174.78130269999997,366.875
+421,,Howick,Auckland,320.0,1.0,1.0,https://www.myrent.co.nz/listings/2HZWYQ,320.0,-36.892947799999995,174.9243831,228.375
+422,1/21 Ferndale Road,MountWellington,Auckland,650.0,3.0,1.0,https://www.myrent.co.nz/listings/TUXFMS,216.66666666666663,-36.898603200000004,174.82948269999997,248.48484848484847
+423,3/18 Sydney Street,Hauraki,Auckland,410.0,2.0,1.0,https://www.myrent.co.nz/listings/P2D54D,205.0,-36.801198299999996,174.7726755,319.0
+424,13 Melissa Place,FarmCove,Auckland,760.0,4.0,2.0,https://www.myrent.co.nz/listings/GXN6GI,190.0,-36.89459610000001,174.8869689,190.0
+425,16 Stewart Gibson Place,TheGardens,Auckland,695.0,3.0,2.0,https://www.myrent.co.nz/listings/SDT4YX,231.66666666666663,-37.013266200000004,174.91476219999998,239.99999999999997
+426,1/26A Rewa Road,ThreeKings,Auckland,575.0,2.0,1.0,https://www.myrent.co.nz/listings/BNQPNY,287.5,-36.900226,174.75983019999998,313.125
+427,1505/2 Beach Road,AucklandCentral,Auckland,1100.0,3.0,2.0,https://www.myrent.co.nz/listings/KJMKKK,366.66666666666674,-36.8453025,174.7709543,383.5460992907801
+428,4 Cliff Road,Torbay,Auckland,390.0,1.0,1.0,https://www.myrent.co.nz/listings/VYEHCN,390.0,-36.691303999999995,174.7550225,309.2857142857143
+429,,MountEden,Auckland,750.0,2.0,1.0,https://www.myrent.co.nz/listings/WA3AMB,375.0,-36.881260499999996,174.7493313,346.75
+430,909/2 Beach Road,AucklandCentral,Auckland,790.0,2.0,2.0,https://www.myrent.co.nz/listings/EBRWP2,395.0,-36.8453025,174.7709543,383.5460992907801
+431,C/73 Parnell Road,Parnell,Auckland,500.0,1.0,1.0,https://www.myrent.co.nz/listings/NW8FHR,500.0,-36.8524419,174.77834319999997,366.875
+432,4 Aroha Avenue,Sandringham,Auckland,560.0,2.0,1.0,https://www.myrent.co.nz/listings/UU3VYT,280.0,-36.8828747,174.7383245,227.97619047619045
+433,3F/16 Burton Street,Grafton,Auckland,450.0,1.0,1.0,https://www.myrent.co.nz/listings/MU3U1G,450.0,-36.8634614,174.7626779,292.91666666666663
+434,47J Wallace Street,HerneBay,Auckland,610.0,1.0,1.0,https://www.myrent.co.nz/listings/DQH7VN,610.0,-36.8423467,174.7333878,625.0
+435,51 De Havilland Drive,GoodwoodHeights,Auckland,675.0,4.0,3.0,https://www.myrent.co.nz/listings/DJ8JKH,168.75,-36.9954696,174.8928322,279.375
+436,4 Trevor Hosken Drive,Wiri,Auckland,580.0,3.0,1.0,https://www.myrent.co.nz/listings/4JHXNV,193.33333333333331,-36.9992717,174.8783676,193.33333333333331
+437,1303/6 Lorne Street,AucklandCentral,Auckland,690.0,2.0,2.0,https://www.myrent.co.nz/listings/VURYRK,345.0,-36.8498224,174.7661639,383.5460992907801
+438,11 Cityview Place,Massey,Auckland,700.0,4.0,2.0,https://www.myrent.co.nz/listings/DOKFKW,175.0,-36.843394200000006,174.60254809999998,219.79166666666666
+439,413/5 Howe Street,FreemansBay,Auckland,640.0,2.0,2.0,https://www.myrent.co.nz/listings/9V4F2T,320.0,-36.857749299999995,174.7551659,490.41666666666663
+440,,Paremoremo,Auckland,510.0,2.0,1.0,https://www.myrent.co.nz/listings/JJ2UZE,255.0,-36.75821090000001,174.6507476,255.0
+441,17 Portobello Place,Torbay,Auckland,480.0,2.0,1.0,https://www.myrent.co.nz/listings/7D6SFE,240.0,-36.6985651,174.7321584,309.2857142857143
+442,15A Tait Street,Avondale,Auckland,580.0,4.0,1.0,https://www.myrent.co.nz/listings/YHQBV7,145.0,-36.89468170000001,174.7025074,183.69047619047618
+443,56 Parrs Cross Road,Henderson,Auckland,550.0,3.0,1.0,https://www.myrent.co.nz/listings/YPWALM,183.33333333333331,-36.9009881,174.6183242,322.57575757575756
+444,256B New Windsor Road,NewWindsor,Auckland,535.0,3.0,1.0,https://www.myrent.co.nz/listings/A5T9XH,178.33333333333337,-36.9100544,174.717709,215.41666666666669
+445,G01/7 Ratanui Street,Henderson,Auckland,495.0,1.0,1.0,https://www.myrent.co.nz/listings/OABKDK,495.0,-36.878625799999995,174.6328938,322.57575757575756
+446,74 Princes Street,NorthcotePoint,Auckland,460.0,1.0,1.0,https://www.myrent.co.nz/listings/9H6BD8,460.0,-36.8203623,174.7480733,384.0
+447,70 Gosford Drive,BotanyDowns,Auckland,680.0,3.0,2.0,https://www.myrent.co.nz/listings/M3JPNW,226.66666666666663,-36.9085721,174.91354130000002,192.26666666666665
+448,127 Newton Road,EdenTerrace,Auckland,650.0,2.0,1.0,https://www.myrent.co.nz/listings/ZM6H9F,325.0,-36.8634571,174.7583724,340.8333333333333
+449,4 Bamford Place,Avondale,Auckland,585.0,3.0,1.0,https://www.myrent.co.nz/listings/89UVMK,195.0,-36.8906534,174.6868224,183.69047619047618
+450,144 Mount Smart Road,Onehunga,Auckland,530.0,2.0,1.0,https://www.myrent.co.nz/listings/6FJYDJ,265.0,-36.91513310000001,174.7910752,265.0
+451,80A Sartors Avenue,BrownsBay,Auckland,795.0,5.0,2.0,https://www.myrent.co.nz/listings/KJHFFV,159.0,-36.7160439,174.73301750000002,236.46666666666664
+452,3 Kaitune Drive,FlatBush,Auckland,880.0,5.0,3.0,https://www.myrent.co.nz/listings/DVCTQK,176.0,-36.9608251,174.9327485,242.61111111111111
+453,2/18 Commodore Drive,Lynfield,Auckland,460.0,1.0,1.0,https://www.myrent.co.nz/listings/KR6BRT,460.0,-36.9241497,174.71995990000002,318.3333333333333
+454,1A Ussher Place,PakurangaHeights,Auckland,495.0,2.0,1.0,https://www.myrent.co.nz/listings/T44UAD,247.5,-36.9086058,174.8892706,224.7222222222222
+455,1/31 Mission View Drive,Northpark,Auckland,480.0,3.0,2.0,https://www.myrent.co.nz/listings/9XY2GP,160.0,-36.9163814,174.9204429,160.0
+456,E/73 Parnell Road,Parnell,Auckland,400.0,1.0,1.0,https://www.myrent.co.nz/listings/YSYIZ9,400.0,-36.8524419,174.77834319999997,366.875
+457,801A Beach Road,BrownsBay,Auckland,520.0,2.0,1.0,https://www.myrent.co.nz/listings/LEVN7X,260.0,-36.712512,174.7431691,236.46666666666664
+458,801B Beach Road,BrownsBay,Auckland,580.0,3.0,1.0,https://www.myrent.co.nz/listings/9XB7UV,193.33333333333331,-36.7126515,174.7429764,236.46666666666664
+459,73 Moore Street,Howick,Auckland,725.0,4.0,1.0,https://www.myrent.co.nz/listings/1W8TIK,181.25,-36.89660870000001,174.9295853,228.375
+460,1A/744 Te Atatu Road,TeAtatuPeninsula,Auckland,475.0,2.0,1.0,https://www.myrent.co.nz/listings/J4X6SC,237.5,-36.8272093,174.64623,211.45833333333331
+461,3/180A Green Lane West,Greenlane,Auckland,540.0,2.0,1.0,https://www.myrent.co.nz/listings/FOTJ83,270.0,-36.8923436,174.7928458,271.1111111111111
+462,74 New North Road,EdenTerrace,Auckland,900.0,3.0,2.0,https://www.myrent.co.nz/listings/N1WHTT,300.0,-36.8662362,174.758116,340.8333333333333
+463,5/8 Cleary Road,Panmure,Auckland,595.0,3.0,2.0,https://www.myrent.co.nz/listings/2IPJIT,198.33333333333331,-36.900744399999994,174.850459,198.33333333333331
+464,1A/125A Hobson Street,AucklandCentral,Auckland,410.0,1.0,1.0,https://www.myrent.co.nz/listings/CC74NH,410.0,-36.8501327,174.75994,383.5460992907801
+465,,Henderson,Auckland,380.0,1.0,1.0,https://www.myrent.co.nz/listings/7MJJMB,380.0,-36.878224100000004,174.6308344,322.57575757575756
+466,2/176 McLeod Road,TeAtatuSouth,Auckland,645.0,3.0,2.0,https://www.myrent.co.nz/listings/QMNHJN,215.0,-36.874492700000005,174.6528981,191.0
+467,7 Beckham Place,Grafton,Auckland,460.0,1.0,1.0,https://www.myrent.co.nz/listings/KPF7ZH,460.0,-36.8610475,174.7655677,292.91666666666663
+468,55 Swainston Road,SaintJohns,Auckland,700.0,4.0,1.0,https://www.myrent.co.nz/listings/SFPMRX,175.0,-36.87882099999999,174.8466228,206.5
+469,16A Sarajevo Place,Massey,Auckland,515.0,3.0,1.0,https://www.myrent.co.nz/listings/UOYUTA,171.66666666666666,-36.8474451,174.61687859999998,219.79166666666666
+470,1/495 Manukau Road,Epsom,Auckland,590.0,2.0,1.0,https://www.myrent.co.nz/listings/N4JTAD,295.0,-36.8950311,174.77357469999998,368.94791666666663
+471,1/48 Heathcote Road,CastorBay,Auckland,575.0,2.0,1.0,https://www.myrent.co.nz/listings/YFKGFR,287.5,-36.7637292,174.76122719999998,268.75
+472,106C/130 Anzac Street,Takapuna,Auckland,560.0,2.0,1.0,https://www.myrent.co.nz/listings/WPUKXK,280.0,-36.79038329999999,174.7637618,389.88095238095235
+473,,MountEden,Auckland,590.0,2.0,1.0,https://www.myrent.co.nz/listings/MKWH7B,295.0,-36.881260499999996,174.7493313,346.75
+474,76 Ferndown Avenue,Papatoetoe,Auckland,330.0,1.0,1.0,https://www.myrent.co.nz/listings/BYLFRV,330.0,-36.9812589,174.8353976,228.78571428571428
+475,,TotaraVale,Auckland,625.0,3.0,1.0,https://www.myrent.co.nz/listings/JAXPD2,208.33333333333331,-36.759634999999996,174.7334974,194.99999999999994
+476,68A Kowhai Road,CampbellsBay,Auckland,950.0,3.0,2.0,https://www.myrent.co.nz/listings/KAP231,316.6666666666667,-36.7450146,174.753128,405.5555555555556
+477,94 Colwill Road,Massey,Auckland,595.0,3.0,1.0,https://www.myrent.co.nz/listings/WDCFT1,198.33333333333331,-36.836448,174.63038730000002,219.79166666666666
+478,1C/15 Nelson Street,AucklandCentral,Auckland,540.0,1.0,1.0,https://www.myrent.co.nz/listings/MCNYIN,540.0,-36.8466718,174.75996809999998,383.5460992907801
+479,258 Sandringham Road,Sandringham,Auckland,650.0,4.0,1.0,https://www.myrent.co.nz/listings/QNJA57,162.5,-36.88185120000001,174.7398639,227.97619047619045
+480,56 Parrs Cross Road,Henderson,Auckland,550.0,3.0,1.0,https://www.myrent.co.nz/listings/TTWDG6,183.33333333333331,-36.9009881,174.6183242,322.57575757575756
+481,32 Glamorgan Drive,Torbay,Auckland,385.0,1.0,1.0,https://www.myrent.co.nz/listings/D789V8,385.0,-36.70078529999999,174.7458699,309.2857142857143
+482,147 Rangatira Road,BeachHaven,Auckland,630.0,3.0,1.0,https://www.myrent.co.nz/listings/C9A2SL,210.0,-36.8046341,174.69336230000002,260.0
+483,,CampbellsBay,Auckland,450.0,1.0,1.0,https://www.myrent.co.nz/listings/O1NWWD,450.0,-36.7467982,174.761271,405.5555555555556
+484,1409/438 Queen Street,AucklandCentral,Auckland,720.0,2.0,2.0,https://www.myrent.co.nz/listings/OURQIM,360.0,-36.854727600000004,174.763152,383.5460992907801
+485,,NorthcotePoint,Auckland,480.0,1.0,1.0,https://www.myrent.co.nz/listings/GV2GJU,480.0,-36.8027257,174.7442342,384.0
+486,,NorthcotePoint,Auckland,540.0,2.0,1.0,https://www.myrent.co.nz/listings/EKWJMH,270.0,-36.8027257,174.7442342,384.0
+487,23 Buisson Glade,WestHarbour,Auckland,500.0,3.0,1.0,https://www.myrent.co.nz/listings/R9NBZS,166.66666666666666,-36.819496799999996,174.6270257,184.44444444444443
+488,801/135 Vincent Street,AucklandCentral,Auckland,530.0,2.0,1.0,https://www.myrent.co.nz/listings/PH3ZV1,265.0,-36.85421669999999,174.75905790000002,383.5460992907801
+489,1814/1 Courthouse Lane,AucklandCentral,Auckland,695.0,2.0,1.0,https://www.myrent.co.nz/listings/57BQ6A,347.5,-36.84826100000001,174.7668761,383.5460992907801
+490,18 Church Street,Swanson,Auckland,540.0,3.0,2.0,https://www.myrent.co.nz/listings/LNMBXZ,180.0,-36.8642212,174.579124,180.0
+491,10 Waterloo Quadrant,AucklandCentral,Auckland,790.0,2.0,1.0,https://www.myrent.co.nz/listings/9GGOK1,395.0,-36.8485657,174.7707399,383.5460992907801
+492,,Ponsonby,Auckland,360.0,1.0,1.0,https://www.myrent.co.nz/listings/HKJS9X,360.0,-36.848777899999995,174.7380663,360.0
+493,,NorthcotePoint,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/YKEXVX,250.0,-36.8027257,174.7442342,384.0
+494,112 Williamson Avenue,GreyLynn,Auckland,395.0,1.0,1.0,https://www.myrent.co.nz/listings/CAFTKD,395.0,-36.8632973,174.74105790000002,347.33333333333337
+495,6 Foundries Lane,FreemansBay,Auckland,1195.0,3.0,2.0,https://www.myrent.co.nz/listings/FCTTBY,398.33333333333326,-36.8521735,174.7540969,490.41666666666663
+496,1/28 Walter,Hauraki,Auckland,420.0,1.0,1.0,https://www.myrent.co.nz/listings/THTINF,420.0,-36.8015803,174.77100900000002,319.0
+497,1/26 Salisbury Road,Birkdale,Auckland,500.0,2.0,1.0,https://www.myrent.co.nz/listings/1SGJYX,250.0,-36.7986026,174.7044194,315.0
+498,1081 Ponga Road,Opaheke,Auckland,620.0,3.0,2.0,https://www.myrent.co.nz/listings/2LUBE2,206.66666666666663,-37.1088653,175.00895309999999,211.66666666666663
+499,30 Matipo Street,MountEden,Auckland,850.0,3.0,1.0,https://www.myrent.co.nz/listings/NR5VHD,283.3333333333333,-36.8907606,174.75107690000002,346.75
