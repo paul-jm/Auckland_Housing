@@ -4,4 +4,6 @@ As I will be relocating to Auckland shortly, I aimed to conceive an interactive 
 
 ### [Click here to look at listings in Auckland](https://paul-jm.github.io/Auckland_Housing/auckland_housing_map.html)
 
+<img src="auckland_housing.gif?raw=true"/>
+
 Thanks to Plamen Pasliev for the inspiration!
